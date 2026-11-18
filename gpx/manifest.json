@@ -1,0 +1,55 @@
+[
+ {
+  "day": 1,
+  "file": "gpx/GomeraTrek_Tag1_Playa-de-Vallehermoso-Pavon.gpx",
+  "points": 1846,
+  "waypoints": 38
+ },
+ {
+  "day": 2,
+  "file": "gpx/GomeraTrek_Tag2_Pavon-San-Sebastian.gpx",
+  "points": 2425,
+  "waypoints": 74
+ },
+ {
+  "day": 3,
+  "file": "gpx/GomeraTrek_Tag3_San-Sebastian-Playa-de-la-Caleta.gpx",
+  "points": 2433,
+  "waypoints": 81
+ },
+ {
+  "day": 4,
+  "file": "gpx/GomeraTrek_Tag4_Caleta-Rucken.gpx",
+  "points": 2211,
+  "waypoints": 29
+ },
+ {
+  "day": 5,
+  "file": "gpx/GomeraTrek_Tag5_Rucken-Lomo-del-Carreton.gpx",
+  "points": 2252,
+  "waypoints": 18
+ },
+ {
+  "day": 6,
+  "file": "gpx/GomeraTrek_Tag6_Lomo-del-Carreton-Playa-de-Iguala.gpx",
+  "points": 1731,
+  "waypoints": 41
+ },
+ {
+  "day": 7,
+  "file": "gpx/GomeraTrek_Tag7_Iguala-Ruinen-bei-Altamache.gpx",
+  "points": 2146,
+  "waypoints": 14
+ },
+ {
+  "day": 8,
+  "file": "gpx/GomeraTrek_Tag8_Altamache-San-Sebastian.gpx",
+  "points": 2970,
+  "waypoints": 47
+ },
+ {
+  "day": 0,
+  "file": "gpx/GomeraTrek_Gesamttour_GR131-GR132.gpx",
+  "waypoints": 253
+ }
+]

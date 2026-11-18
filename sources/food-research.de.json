@@ -1,0 +1,1694 @@
+[
+ {
+  "name": "SPAR Torre del Conde",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09172,
+  "lon": -17.11159,
+  "coord_confidence": "hoch (Calle Ruiz de Padrón 23)",
+  "opening_hours": "Mo–So 08:30–21:30 laut SPAR-Website (OSM: Mo–Sa 08:30–20:30, So 08:30–15:00)",
+  "osm_opening_hours": "Mo-Su 08:30-21:30",
+  "notes": "Beste Option für den ganzen Sonntag im Ort. Zentral, keine Mittagspause. OSM und SPAR widersprechen sich beim Sonntag, plane daher mit 15:00.",
+  "confidence": "A (Widerspruch zu B)",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/1763754643"
+  ]
+ },
+ {
+  "name": "SPAR La Lomada",
+  "category": "supermarket",
+  "village": "San Sebastián (Ostseite, nahe dem Hafen)",
+  "lat": 28.09229,
+  "lon": -17.10781,
+  "coord_confidence": "mittel (SPAR nennt 'Calle Lomo del Clavo 3'; der OSM-Knoten heißt 'Spar, La Horca')",
+  "opening_hours": "Mo–Sa 08:30–20:30; So 08:30–13:30 (SPAR-Website). OSM: So 08:00–15:00",
+  "osm_opening_hours": "Mo-Sa 08:30-20:30; Su 08:30-13:30",
+  "notes": "Nächster Supermarkt zum Fährhafen, gut für den Start am So 22.11.",
+  "confidence": "A",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/13523951004"
+  ]
+ },
+ {
+  "name": "Hipertrébol",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09172,
+  "lon": -17.11356,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 09:00–21:00; So 09:00–15:00",
+  "osm_opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-15:00",
+  "notes": "Größte Auswahl und am günstigsten auf der Insel (Wikivoyage: VGR ist 20–50% teurer). Neben dem Mercado Municipal. Am So 29.11. bis 15:00 geöffnet.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/1492219162",
+   "http://compras.tutrebol.es/"
+  ]
+ },
+ {
+  "name": "Unide",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09617,
+  "lon": -17.11501,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 09:00–21:00; So 09:00–14:00",
+  "osm_opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-14:00",
+  "notes": "Calle Real, nördliches Ortsende.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/3317503067"
+  ]
+ },
+ {
+  "name": "Mercado Municipal",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09188,
+  "lon": -17.11355,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: Mo–Sa 07:30–14:00; So geschlossen",
+  "osm_opening_hours": "",
+  "notes": "Frisches Obst und Gemüse, Käse, Brot; Avenida de Colón.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/1492219162"
+  ]
+ },
+ {
+  "name": "Panadería-Dulcería La Concepción",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09151,
+  "lon": -17.11307,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 06:00–20:00",
+  "osm_opening_hours": "Mo-Su 06:00-20:00",
+  "notes": "Bäckerei, täglich geöffnet, auch sonntags.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/12518238846"
+  ]
+ },
+ {
+  "name": "Dulcería Panadería Mendoza",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09098,
+  "lon": -17.11089,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 06:00–20:00",
+  "osm_opening_hours": "Mo-Su 06:00-20:00",
+  "notes": "Bäckerei, Calle Ruiz de Padrón, nahe der Plaza.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/1766717587"
+  ]
+ },
+ {
+  "name": "Pastelería y Panadería La Rama",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09207,
+  "lon": -17.11353,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: Mo–Sa 07:00–20:00",
+  "osm_opening_hours": "",
+  "notes": "Bäckerei neben dem Mercado.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/12518238847"
+  ]
+ },
+ {
+  "name": "Víveres Torres",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09183,
+  "lon": -17.11106,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: Mo–Sa 08:30–13:30, 17:00–20:00",
+  "osm_opening_hours": "",
+  "notes": "Kleiner Lebensmittelladen an der Plaza. Außerdem Shurimarket (28.09077,-17.11095), Gloria (28.09418,-17.11259), Barroso (28.09429,-17.11269), Öffnungszeiten jeweils unbekannt.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/318421773"
+  ]
+ },
+ {
+  "name": "Perenquén (deli/ice cream)",
+  "category": "supermarket",
+  "village": "San Sebastián",
+  "lat": 28.09134,
+  "lon": -17.11002,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–So 16:00–20:30; Mo geschlossen",
+  "osm_opening_hours": "Tu-Su 16:00-20:30",
+  "notes": "Lokales Feinkostgeschäft.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/13290032030"
+  ]
+ },
+ {
+  "name": "Kiosco Las Carabelas",
+  "category": "snack",
+  "village": "San Sebastián",
+  "lat": 28.0912,
+  "lon": -17.11,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 07:30–23:30",
+  "osm_opening_hours": "Mo-Su 07:30-23:30",
+  "notes": "Kiosk an der Plaza de la Constitución. Außerdem Kiosco Casa Juanita (28.09015,-17.11067), Öffnungszeiten unbekannt.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/way/662844893"
+  ]
+ },
+ {
+  "name": "Asador de Lara",
+  "category": "restaurant",
+  "village": "San Sebastián",
+  "lat": 28.0939,
+  "lon": -17.11302,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mi 19:30–22:00; Do–Sa 13:00–16:00 & 19:30–22:00; So 13:00–16:00; Mo–Di geschlossen",
+  "osm_opening_hours": "We 19:30-22:00; Th-Sa 13:00-16:00,19:30-22:00; Su 13:00-16:00",
+  "notes": "Grillrestaurant. Telefon +34 822 642200.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/12228285573",
+   "https://elasadordelara.eatbu.com/"
+  ]
+ },
+ {
+  "name": "El Pajar",
+  "category": "restaurant",
+  "village": "San Sebastián",
+  "lat": 28.09155,
+  "lon": -17.1113,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–So 12:30–15:30 & 18:30–23:00; Mo geschlossen",
+  "osm_opening_hours": "Tu-Su 12:30-15:30,18:30-23:00",
+  "notes": "Zentral.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/1763754641"
+  ]
+ },
+ {
+  "name": "ágApe bistro",
+  "category": "restaurant",
+  "village": "San Sebastián",
+  "lat": 28.09154,
+  "lon": -17.11077,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 12:30–16:00 & 19:00–22:30, 1 Ruhetag",
+  "osm_opening_hours": "",
+  "notes": "Viele weitere Restaurants und Bars rund um die Plaza und in der Calle Ruiz de Padrón.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/3425308417",
+   "https://www.agapebistro.com/"
+  ]
+ },
+ {
+  "name": "Ferretería Sánchez",
+  "category": "hardware",
+  "village": "San Sebastián",
+  "lat": 28.09559,
+  "lon": -17.11465,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: Mo–Fr 08:30–13:30 & 16:30–19:30; Sa 09:00–13:00",
+  "osm_opening_hours": "",
+  "notes": "Möglicher Laden für Gaskartuschen, Sortiment NICHT bestätigt. Würth (28.09508,-17.11393) verkauft nur an Gewerbekunden; Bazar Oriental (28.09109,-17.11055) ist ein Gemischtwarenladen; Grande Sport (28.09288,-17.11172) ist ein Sportgeschäft.",
+  "confidence": "C",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=Ferreter%C3%ADa&viewbox=-17.40,28.25,-17.05,27.95&bounded=1&format=json"
+  ]
+ },
+ {
+  "name": "Supermercado Hermigua",
+  "category": "supermarket",
+  "village": "Hermigua (Las Casas)",
+  "lat": 28.15534,
+  "lon": -17.19786,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:00–14:00 & 16:00–20:00; So 08:30–13:30",
+  "osm_opening_hours": "Mo-Sa 08:00-14:00,16:00-20:00; Su 08:30-13:30",
+  "notes": "Vermutlich der erste Laden, wenn du aus San Sebastián ankommst. Am So 22.11. bis 13:30 geöffnet.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/5239146611"
+  ]
+ },
+ {
+  "name": "Superdiplo Hermigua",
+  "category": "supermarket",
+  "village": "Hermigua (El Corralete)",
+  "lat": 28.1517,
+  "lon": -17.19879,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 07:00–20:00; So geschlossen",
+  "osm_opening_hours": "Mo-Sa 07:00-20:00",
+  "notes": "Durchgehend geöffnet. Am So 22.11. geschlossen.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/13671059701"
+  ]
+ },
+ {
+  "name": "SPAR Hermigua",
+  "category": "supermarket",
+  "village": "Hermigua (Palmarejo / El Andén)",
+  "lat": 28.17142,
+  "lon": -17.18987,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:30–20:30; So geschlossen (SPAR nennt keine Sonntagszeiten)",
+  "osm_opening_hours": "Mo-Sa 08:30-20:30",
+  "notes": "Nördliches Ende des Tals, Richtung Agulo.",
+  "confidence": "A",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/3424504696"
+  ]
+ },
+ {
+  "name": "UDACO Hermigua",
+  "category": "supermarket",
+  "village": "Hermigua (Callejón de Ordaiz)",
+  "lat": 28.1664,
+  "lon": -17.19699,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: Mo–Sa 08:00–13:30 & 16:30–20:00",
+  "osm_opening_hours": "",
+  "notes": "Dorfladen in der Talmitte. Hermigua ist etwa 4 km lang und hat mehrere Läden.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/1576145291"
+  ]
+ },
+ {
+  "name": "Dulcería El Tabaibal",
+  "category": "snack",
+  "village": "Hermigua (Callejón de Ordaiz)",
+  "lat": 28.16584,
+  "lon": -17.19714,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 08:00–19:00",
+  "osm_opening_hours": "",
+  "notes": "Bäckerei mit Café. Außerdem die Bäckerei Caprichito Gomero (28.16785,-17.19495) und Dulcería Ibo-Alfaro (28.15897,-17.19822).",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/319563718"
+  ]
+ },
+ {
+  "name": "Kata Cream",
+  "category": "snack",
+  "village": "Hermigua (Las Casas)",
+  "lat": 28.15296,
+  "lon": -17.19813,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–Fr 09:30–16:00; Sa 10:00–16:00; So 10:00–15:00; Mo geschlossen",
+  "osm_opening_hours": "Tu-Fr 09:30-16:00; Sa 10:00-16:00; Su 10:00-15:00",
+  "notes": "Café an der Plaza de Santo Domingo.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/13658486001"
+  ]
+ },
+ {
+  "name": "PEG Los Telares – Museum, shop and café",
+  "category": "snack",
+  "village": "Hermigua (El Corralete)",
+  "lat": 28.1532,
+  "lon": -17.19951,
+  "coord_confidence": "hoch",
+  "opening_hours": "Museum/Laden täglich 10:00–16:30 (OSM-Café: Mo–Sa 09:30–17:30)",
+  "osm_opening_hours": "Mo-Su 10:00-16:30",
+  "notes": "Ethnografischer Park.",
+  "confidence": "A",
+  "sources": [
+   "https://www.etnograficolagomera.com/restaurante/",
+   "https://www.openstreetmap.org/node/4198574062"
+  ]
+ },
+ {
+  "name": "Restaurante Los Telares",
+  "category": "restaurant",
+  "village": "Hermigua (El Corralete)",
+  "lat": 28.15321,
+  "lon": -17.19941,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 13:00–22:00 ('täglich geöffnet')",
+  "osm_opening_hours": "Mo-Su 13:00-22:00",
+  "notes": "Telefon +34 922 880 781. Laut eigener Website täglich geöffnet.",
+  "confidence": "A",
+  "sources": [
+   "https://www.etnograficolagomera.com/restaurante/",
+   "https://www.openstreetmap.org/node/9498292941"
+  ]
+ },
+ {
+  "name": "Las Chacaras",
+  "category": "restaurant",
+  "village": "Hermigua",
+  "lat": 28.14855,
+  "lon": -17.19938,
+  "coord_confidence": "hoch",
+  "opening_hours": "OSM: Mo–Sa 08:30–01:00; So geschlossen",
+  "osm_opening_hours": "Mo-Sa 08:30-01:00",
+  "notes": "Die Website empfiehlt, am Wochenende zu reservieren. Sonntagsruhe nur laut OSM.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/319563763",
+   "https://laschacaras.com/"
+  ]
+ },
+ {
+  "name": "Bar Restaurante Mi Causa",
+  "category": "restaurant",
+  "village": "Hermigua (El Curato)",
+  "lat": 28.16527,
+  "lon": -17.19754,
+  "coord_confidence": "hoch",
+  "opening_hours": "OSM: Do–So 16:00–22:00; Di 18:00–22:00 (Di-Eintrag in OSM wirkt fehlerhaft)",
+  "osm_opening_hours": "Th-Su 16:00-22:00; Tu 18:00-22:00",
+  "notes": "Nur abends. Weitere Bars: La Chama (28.16504,-17.19782), Don Juan (28.16781,-17.19534), Tasca Telémaco (28.16813,-17.19385), Öffnungszeiten jeweils unbekannt.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/1576145284"
+  ]
+ },
+ {
+  "name": "El Faro",
+  "category": "restaurant",
+  "village": "Hermigua Playa / Santa Catalina",
+  "lat": 28.17781,
+  "lon": -17.18328,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 11:00–22:30",
+  "osm_opening_hours": "Mo-Su 11:00-22:30",
+  "notes": "Am Strand, etwa 2 km abseits der Hauptstraße. Piloto (28.17934,-17.18321) liegt direkt daneben, Öffnungszeiten unbekannt.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/319563765"
+  ]
+ },
+ {
+  "name": "Ferretería (Las Casas)",
+  "category": "hardware",
+  "village": "Hermigua",
+  "lat": 28.15379,
+  "lon": -17.19912,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: Mo–Fr 08:30–13:00 & 16:00–19:30; Sa 09:00–13:00",
+  "osm_opening_hours": "",
+  "notes": "Möglicher Laden für Gaskartuschen, Sortiment NICHT bestätigt.",
+  "confidence": "C",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=Ferreter%C3%ADa+Hermigua&format=json"
+  ]
+ },
+ {
+  "name": "Restaurante La Vista (camping, El Cedro)",
+  "category": "restaurant",
+  "village": "El Cedro (oberhalb von Hermigua)",
+  "lat": 28.13715,
+  "lon": -17.21498,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–So 09:00–18:00; Mo geschlossen",
+  "osm_opening_hours": "Mo off; Tu-Su 09:00-18:00",
+  "notes": "Telefon +34 922 88 09 49. Etwa 5 km talaufwärts, also nur bei einem Abstecher nach El Cedro relevant.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/way/141078387",
+   "https://camping-lavista.jimdo.com/"
+  ]
+ },
+ {
+  "name": "Superdiplo Agulo",
+  "category": "supermarket",
+  "village": "Agulo",
+  "lat": 28.18625,
+  "lon": -17.19479,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 06:45–13:30 & 17:00–21:00; Sa, So, Feiertage 07:30–14:00",
+  "osm_opening_hours": "Mo-Fr 06:45-13:30,17:00-21:00; Sa,Su,PH 07:30-14:00",
+  "notes": "Telefon +34 922 22 00 00. Auch Sonntagvormittag geöffnet, daher der wichtigste Einkauf in Agulo am Mo 23.11. und am 8.12.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/2638058219"
+  ]
+ },
+ {
+  "name": "Udaco Supermercados",
+  "category": "supermarket",
+  "village": "Agulo",
+  "lat": 28.18795,
+  "lon": -17.1939,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 07:30–13:00 & 17:00–19:30; Feiertage 07:30–13:00",
+  "osm_opening_hours": "Mo-Sa 07:30-13:00,17:00-19:30; PH 07:30-13:00",
+  "notes": "Sonntag nicht angegeben, vermutlich geschlossen.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/1528927615"
+  ]
+ },
+ {
+  "name": "Bar Restaurante La Vieja Escuela",
+  "category": "restaurant",
+  "village": "Agulo",
+  "lat": 28.18898,
+  "lon": -17.19456,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 11:30–21:00; Sa 11:30–16:00; So geschlossen",
+  "osm_opening_hours": "Mo-Fr 11:30-21:00; Sa 11:30-16:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/2217061144"
+  ]
+ },
+ {
+  "name": "Tasca Las Cruces",
+  "category": "restaurant",
+  "village": "Agulo",
+  "lat": 28.18957,
+  "lon": -17.19499,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 12:00–16:30 & 18:30–22:00; So 12:00–16:30",
+  "osm_opening_hours": "Mo-Sa 12:00-16:30,18:30-22:00; Su 12:00-16:30",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/5098122622"
+  ]
+ },
+ {
+  "name": "Restaurante Alameda",
+  "category": "restaurant",
+  "village": "Agulo",
+  "lat": 28.18725,
+  "lon": -17.19548,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:30–12:00 & 17:00–23:30; So 12:00–23:30",
+  "osm_opening_hours": "Mo-Sa 08:30-12:00,17:00-23:30; Su 12:00-23:30",
+  "notes": "Werktags Pause über Mittag, also vorher prüfen.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/329584206"
+  ]
+ },
+ {
+  "name": "Bar Mantillo – Los Chochos",
+  "category": "snack",
+  "village": "Agulo",
+  "lat": 28.18637,
+  "lon": -17.19466,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 08:00–22:00",
+  "osm_opening_hours": "",
+  "notes": "Telefon +34 922 146 166. Weitere Bars an der Plaza: Lila (28.18632,-17.19491), Betermann (28.18626,-17.19455), Öffnungszeiten unbekannt.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/2638058222"
+  ]
+ },
+ {
+  "name": "Restaurante Las Rosas",
+  "category": "restaurant",
+  "village": "Las Rosas",
+  "lat": 28.18654,
+  "lon": -17.22225,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: täglich etwa 12:00–17:00 (Mittagsbuffet für Busreisegruppen)",
+  "osm_opening_hours": "",
+  "notes": "Telefon +34 922 80 09 16. Großes Touristenrestaurant, mittags vermutlich voll.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/way/136289341"
+  ]
+ },
+ {
+  "name": "El Cruce",
+  "category": "restaurant",
+  "village": "Las Rosas",
+  "lat": 28.18365,
+  "lon": -17.22401,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 10:00–18:00, 1 Ruhetag",
+  "osm_opening_hours": "",
+  "notes": "Telefon +34 922 69 34 64.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/697980777"
+  ]
+ },
+ {
+  "name": "Rincón del Campesino",
+  "category": "restaurant",
+  "village": "Las Rosas / Agulo",
+  "lat": 28.18129,
+  "lon": -17.22625,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mi–Mo 09:00–21:00; Di geschlossen",
+  "osm_opening_hours": "We-Mo 09:00-21:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/6834351422"
+  ]
+ },
+ {
+  "name": "Juego de Bolas restaurant / visitor centre area",
+  "category": "restaurant",
+  "village": "Juego de Bolas",
+  "lat": 28.17607,
+  "lon": -17.21611,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 10:00–17:00",
+  "osm_opening_hours": "",
+  "notes": "Telefon +34 922 800 978. Außerdem gibt es eine namenlose Bäckerei bei 28.17874,-17.21379.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/1565322663"
+  ]
+ },
+ {
+  "name": "Roque Blanco",
+  "category": "restaurant",
+  "village": "Zwischen Las Rosas und Vallehermoso",
+  "lat": 28.17113,
+  "lon": -17.24199,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–So 10:00–17:00; Mo geschlossen",
+  "osm_opening_hours": "Tu-Su 10:00-17:00",
+  "notes": "Telefon +34 922 800 483. Am Mo 23.11., dem Tag, an dem du vorbeikommst, geschlossen.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/318419556"
+  ]
+ },
+ {
+  "name": "SPAR Vallehermoso",
+  "category": "supermarket",
+  "village": "Vallehermoso",
+  "lat": 28.17919,
+  "lon": -17.26646,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:30–20:30; So 08:30–13:30",
+  "osm_opening_hours": "Mo-Sa 08:30-20:30; Su 08:30-13:30",
+  "notes": "Plaza de la Constitución. Telefon +34 922 801 621. Wichtigster Einkauf vor der Etappe nach Alojera, auf der es nichts zu essen gibt.",
+  "confidence": "A",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/6320805701"
+  ]
+ },
+ {
+  "name": "Suma",
+  "category": "supermarket",
+  "village": "Vallehermoso",
+  "lat": 28.17866,
+  "lon": -17.26603,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:00–21:00; So 08:00–20:00",
+  "osm_opening_hours": "Mo-Sa 08:00-21:00; Su 08:00-20:00",
+  "notes": "Calle Triana 11. Lange und auch sonntags geöffnet.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/317814072"
+  ]
+ },
+ {
+  "name": "Lucía… Cosas de Verdad (café/bakery)",
+  "category": "snack",
+  "village": "Vallehermoso",
+  "lat": 28.17915,
+  "lon": -17.26647,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–Sa 10:30–14:00 & 17:00–20:00; So–Mo geschlossen",
+  "osm_opening_hours": "Tu-Sa 10:30-14:00,17:00-20:00",
+  "notes": "Eine namenlose Bäckerei in der Calle Triana (28.17837,-17.26563) hat keine Öffnungszeiten angegeben.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/317814069"
+  ]
+ },
+ {
+  "name": "Bar Central",
+  "category": "snack",
+  "village": "Vallehermoso",
+  "lat": 28.17948,
+  "lon": -17.26639,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 06:00–16:00; So geschlossen",
+  "osm_opening_hours": "Mo-Sa 06:00-16:00",
+  "notes": "Frühes Frühstück vor der Etappe nach Alojera.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/317814076"
+  ]
+ },
+ {
+  "name": "El Carraca",
+  "category": "restaurant",
+  "village": "Vallehermoso",
+  "lat": 28.1802,
+  "lon": -17.26585,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 07:00–22:00",
+  "osm_opening_hours": "Mo-Su 07:00-22:00",
+  "notes": "Telefon +34 922 80 10 21.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/2217061145"
+  ]
+ },
+ {
+  "name": "Agana",
+  "category": "restaurant",
+  "village": "Vallehermoso",
+  "lat": 28.1796,
+  "lon": -17.26598,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo, Mi–So 10:00–24:00; Di geschlossen",
+  "osm_opening_hours": "Mo,We-Su 10:00-24:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/317814044"
+  ]
+ },
+ {
+  "name": "Garajonay (fast food)",
+  "category": "snack",
+  "village": "Vallehermoso",
+  "lat": 28.17795,
+  "lon": -17.26563,
+  "coord_confidence": "hoch",
+  "opening_hours": "11:00–21:00",
+  "osm_opening_hours": "11:00-21:00",
+  "notes": "Außerdem Bar Explanada (28.17859,-17.26553) und Zumería Iballa (28.17952,-17.26629), Öffnungszeiten unbekannt.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/10814484626"
+  ]
+ },
+ {
+  "name": "Ferretería Gaspar",
+  "category": "hardware",
+  "village": "Vallehermoso (La Morera)",
+  "lat": 28.18212,
+  "lon": -17.2665,
+  "coord_confidence": "mittel",
+  "opening_hours": "unbestätigt – typisch: Mo–Fr 08:30–13:00 & 16:00–19:30; Sa 09:00–13:00",
+  "osm_opening_hours": "",
+  "notes": "Möglicher Laden für Gaskartuschen, Sortiment NICHT bestätigt.",
+  "confidence": "C",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=Ferreter%C3%ADa&viewbox=-17.40,28.25,-17.05,27.95&bounded=1&format=json"
+  ]
+ },
+ {
+  "name": "Los Chorros de Epina",
+  "category": "restaurant",
+  "village": "Epina (Straße Vallehermoso–Alojera)",
+  "lat": 28.16436,
+  "lon": -17.29733,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 06:45–21:00 (OSM, auch an Feiertagen)",
+  "osm_opening_hours": "Mo-Su,PH 06:45-21:00",
+  "notes": "Telefon +34 922 80 42 26. Nur relevant, wenn deine Variante nach Alojera über Epina führt. Sonst gibt es zwischen Vallehermoso und Alojera nichts zu essen. Die Website des Betreibers nennt keine Öffnungszeiten.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/3871251450",
+   "https://www.chorrosdeepina.com/"
+  ]
+ },
+ {
+  "name": "Superdiplo Alojera",
+  "category": "supermarket",
+  "village": "Alojera (El Mono)",
+  "lat": 28.16076,
+  "lon": -17.322,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–Sa 08:00–14:00 & 16:30–20:30; So 08:00–14:00; Mo geschlossen",
+  "osm_opening_hours": "Tu-Sa 08:00-14:00,16:30-20:30; Su 08:00-14:00",
+  "notes": "Deck dich hier für die Etappe über Taguluche ein.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/13483103397"
+  ]
+ },
+ {
+  "name": "Udaco Alojera",
+  "category": "supermarket",
+  "village": "Alojera",
+  "lat": 28.16071,
+  "lon": -17.32514,
+  "coord_confidence": "hoch",
+  "opening_hours": "09:00–14:00 & 18:00–20:00 (Tage nicht angegeben; sonntags vermutlich geschlossen)",
+  "osm_opening_hours": "09:00-14:00,18:00-20:00",
+  "notes": "Kleiner Dorfladen.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/6310871573"
+  ]
+ },
+ {
+  "name": "Bar Plaza",
+  "category": "snack",
+  "village": "Alojera",
+  "lat": 28.16073,
+  "lon": -17.32519,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo 09:00–14:00 & 18:00–22:00; Di–So etwa 09:00–22:00 (OSM-Eintrag fehlerhaft)",
+  "osm_opening_hours": "",
+  "notes": "",
+  "confidence": "B (geringe Qualität)",
+  "sources": [
+   "https://www.openstreetmap.org/node/6310922089"
+  ]
+ },
+ {
+  "name": "Bar Perdomo",
+  "category": "snack",
+  "village": "Alojera",
+  "lat": 28.16075,
+  "lon": -17.32203,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–So 09:30–18:00; Mo geschlossen",
+  "osm_opening_hours": "Tu-Su 09:30-18:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/319784054"
+  ]
+ },
+ {
+  "name": "Bar Restaurante Prisma",
+  "category": "restaurant",
+  "village": "Alojera (Strand)",
+  "lat": 28.16402,
+  "lon": -17.33422,
+  "coord_confidence": "hoch",
+  "opening_hours": "12:30–16:30 & 18:00–21:30; Mi geschlossen",
+  "osm_opening_hours": "We off; 12:30-16:30,18:00-21:30",
+  "notes": "Am Mi 25.11., dem Tag, an dem du Alojera verlässt, geschlossen. Geh am Dienstagabend hin oder pack dir ein Frühstück ein.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/6381194388"
+  ]
+ },
+ {
+  "name": "Restaurante Taguluche",
+  "category": "restaurant",
+  "village": "Taguluche",
+  "lat": 28.13827,
+  "lon": -17.33504,
+  "coord_confidence": "mittel (Knoten des Weilers liegt bei 28.1377,-17.3318)",
+  "opening_hours": "Di–So 09:00–14:00 & 17:30–22:30; Mo geschlossen",
+  "osm_opening_hours": "Mo off; Tu-Su,PH 09:00-14:00,17:30-22:30",
+  "notes": "Telefon +34 922 804 002. Einzige Verpflegung zwischen Alojera und Arure. Am Mi 25.11. geöffnet. Verlass dich beim Proviant nicht darauf.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/331505263"
+  ]
+ },
+ {
+  "name": "Restaurante El Jape",
+  "category": "restaurant",
+  "village": "Arure",
+  "lat": 28.13145,
+  "lon": -17.32075,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 06:30–22:00 (OSM, auch an Feiertagen)",
+  "osm_opening_hours": "Mo-Su,PH 06:30-22:00",
+  "notes": "Telefon +34 922 80 42 26. Die Website des Betreibers nennt keine Öffnungszeiten.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/1134101587",
+   "https://www.chorrosdeepina.com/"
+  ]
+ },
+ {
+  "name": "Panadería Los Reyes",
+  "category": "supermarket",
+  "village": "Arure",
+  "lat": 28.13506,
+  "lon": -17.31893,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Do 06:00–14:00; Fr–So 06:00–13:00",
+  "osm_opening_hours": "Mo-Th 06:00-14:00; Fr-Su 06:00-13:00",
+  "notes": "Bäckerei, in OSM als 'convenience' getaggt. Verkauft eventuell auch das Nötigste. Schließt um 14:00.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/4450534094"
+  ]
+ },
+ {
+  "name": "Casa Conchita",
+  "category": "restaurant",
+  "village": "Arure",
+  "lat": 28.13553,
+  "lon": -17.31802,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 12:00–17:00",
+  "osm_opening_hours": "",
+  "notes": "Telefon +34 620 506 700. Guachinche Punto de Servicio (28.13831,-17.31509) hat keine Öffnungszeiten angegeben.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/371623293"
+  ]
+ },
+ {
+  "name": "Restaurante Amparo",
+  "category": "restaurant",
+  "village": "Las Hayas",
+  "lat": 28.1288,
+  "lon": -17.29163,
+  "coord_confidence": "hoch",
+  "opening_hours": "Täglich 08:00–23:00 ('horario corrido')",
+  "osm_opening_hours": "Mo-Su 08:00-23:00",
+  "notes": "Telefon +34 922 804 201. Praktisch für den GR 131 und die Varianten über Arure. Laut Website keine Mittagspause.",
+  "confidence": "A",
+  "sources": [
+   "http://amparolashayas.com",
+   "https://www.openstreetmap.org/node/2634892990"
+  ]
+ },
+ {
+  "name": "Casa Efigenia",
+  "category": "restaurant",
+  "village": "Las Hayas",
+  "lat": 28.12914,
+  "lon": -17.29245,
+  "coord_confidence": "hoch",
+  "opening_hours": "OSM: täglich 08:00–20:00",
+  "osm_opening_hours": "08:00-20:00",
+  "notes": "Telefon +34 659 807 458. Die Website nennt keine Öffnungszeiten. In Las Hayas gibt es keinen bestätigten Laden.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/9556693025",
+   "https://www.efigenialagomera.com/"
+  ]
+ },
+ {
+  "name": "Dulcería Laura",
+  "category": "snack",
+  "village": "Valle Gran Rey (El Retamal)",
+  "lat": 28.11965,
+  "lon": -17.31064,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 08:30–19:00",
+  "osm_opening_hours": "",
+  "notes": "Café-Bäckerei an der oberen Straße. Macondo (28.11864,-17.30897; täglich 16:00–21:00 laut OSM) und Bodegas La Vizcaína (28.11393,-17.30938; 12:30–22:00 laut OSM) liegen ebenfalls im oberen Tal.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/10812981683"
+  ]
+ },
+ {
+  "name": "ProximLomo del Moral",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (Lomo del Moral)",
+  "lat": 28.11327,
+  "lon": -17.31517,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:00–21:00; So 09:00–14:00",
+  "osm_opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-14:00",
+  "notes": "Praktisch beim Abstieg von Arure. Der Laden 'Los Granados' (28.11168,-17.31829) hat keine Öffnungszeiten angegeben.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/319254085",
+   "https://www.openstreetmap.org/node/319254086"
+  ]
+ },
+ {
+  "name": "Supermercado Caidero",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (La Calera / El Chorro)",
+  "lat": 28.09499,
+  "lon": -17.3353,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:00–21:00; So 08:30–14:30 & 17:00–21:00",
+  "osm_opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-14:30,17:00-21:00",
+  "notes": "Werktags durchgehend geöffnet.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/6303698882"
+  ]
+ },
+ {
+  "name": "El Chorro (shop)",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (El Chorro)",
+  "lat": 28.09688,
+  "lon": -17.33404,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:00–14:00 & 17:00–21:00; So 08:00–13:00",
+  "osm_opening_hours": "Mo-Sa 08:00-14:00,17:00-21:00; Su 08:00-13:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/319254093"
+  ]
+ },
+ {
+  "name": "SPAR La Playa",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (La Playa)",
+  "lat": 28.0957,
+  "lon": -17.34285,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:30–20:30; So 08:30–13:30 (SPAR-Website; OSM ohne Sonntag)",
+  "osm_opening_hours": "Mo-Sa 08:30-20:30; Su 08:30-13:30",
+  "notes": "Telefon +34 922 807 170.",
+  "confidence": "A",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/3355519193"
+  ]
+ },
+ {
+  "name": "Pan de Vueltas (La Playa)",
+  "category": "snack",
+  "village": "Valle Gran Rey (La Playa)",
+  "lat": 28.09541,
+  "lon": -17.34302,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 07:30–19:00",
+  "osm_opening_hours": "Mo-Su 07:30-19:00",
+  "notes": "Bäckerei-Café, täglich geöffnet. Zweite Filiale in Borbalán (28.0855,-17.33434).",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/1477269049",
+   "https://www.openstreetmap.org/node/1511540109"
+  ]
+ },
+ {
+  "name": "Supermercado Callao / El Barrio",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (La Playa)",
+  "lat": 28.09528,
+  "lon": -17.34254,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: Mo–Sa 08:30–20:00; So 09:00–13:00",
+  "osm_opening_hours": "",
+  "notes": "Zwei kleine Läden direkt nebeneinander. El Barrio liegt bei 28.09586,-17.34242. Herbolario Bioeco Lino Dorado (28.0959,-17.34303; Mo–Fr 09:00–14:00 & 17:00–20:00, Sa 09:30–14:00) ist ein Reformhaus.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/479796460",
+   "https://www.openstreetmap.org/node/318877411",
+   "https://www.openstreetmap.org/node/10196795086"
+  ]
+ },
+ {
+  "name": "Biofinca Lomo del Riego",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (La Calera)",
+  "lat": 28.09329,
+  "lon": -17.3352,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 09:00–19:00; Sa 09:00–15:00; So geschlossen",
+  "osm_opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-15:00",
+  "notes": "Hofladen mit Obst und Gemüse.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/5194273598"
+  ]
+ },
+ {
+  "name": "Zumería Heladería Carlos",
+  "category": "snack",
+  "village": "Valle Gran Rey (La Calera)",
+  "lat": 28.09509,
+  "lon": -17.33515,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:00–15:00; So geschlossen",
+  "osm_opening_hours": "Mo-Sa 08:00-15:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/4075307602"
+  ]
+ },
+ {
+  "name": "Restaurante El Descansillo",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (La Calera)",
+  "lat": 28.09591,
+  "lon": -17.33498,
+  "coord_confidence": "hoch",
+  "opening_hours": "Ab 18:00; Sa geschlossen (OSM)",
+  "osm_opening_hours": "18:00+; Sa off",
+  "notes": "Telefon +34 922 805 785.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/2634892969",
+   "http://restauranteeldescansillo.com"
+  ]
+ },
+ {
+  "name": "La Orquídea",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (La Calera)",
+  "lat": 28.09568,
+  "lon": -17.33603,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Do & So 17:00–23:00; Fr–Sa geschlossen",
+  "osm_opening_hours": "Mo-Th,Su 17:00-23:00",
+  "notes": "Telefon +34 922 805 181.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/4068355294"
+  ]
+ },
+ {
+  "name": "Trasmallo",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (La Playa)",
+  "lat": 28.09545,
+  "lon": -17.34211,
+  "coord_confidence": "hoch",
+  "opening_hours": "Fr–Mi 12:30–22:00; Do geschlossen",
+  "osm_opening_hours": "Fr-We 12:30-22:00",
+  "notes": "Telefon +34 922 806 271. Restaurant mit frischem Fisch.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/318877327"
+  ]
+ },
+ {
+  "name": "Mango / Pizzeria Avenida (La Playa)",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (La Playa)",
+  "lat": 28.09541,
+  "lon": -17.34234,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mango Do–Di 10:00–23:15; Pizzeria Avenida Fr–Di 12:00–22:00",
+  "osm_opening_hours": "Th-Tu 10:00-23:15",
+  "notes": "Zwei von vielen Lokalen an der Strandpromenade von La Playa.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/479796457",
+   "https://www.openstreetmap.org/node/479796456"
+  ]
+ },
+ {
+  "name": "El Palmar",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (Umgebung Borbalán)",
+  "lat": 28.09014,
+  "lon": -17.33557,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 12:00–15:00 & 18:00–23:00; So geschlossen",
+  "osm_opening_hours": "Mo-Sa 12:00-15:00,18:00-23:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/3836495205"
+  ]
+ },
+ {
+  "name": "SPAR Valle Gran Rey (Borbalán)",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (Borbalán)",
+  "lat": 28.08592,
+  "lon": -17.33477,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:30–20:30; So 08:30–13:30",
+  "osm_opening_hours": "Mo-Sa 08:30-20:30; Su 08:30-13:30",
+  "notes": "Telefon +34 922 806 212. Am besten sortierter Laden im Tal.",
+  "confidence": "A",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/315394494"
+  ]
+ },
+ {
+  "name": "Supermercado Borbalán",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (Borbalán)",
+  "lat": 28.08775,
+  "lon": -17.33539,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 07:30–22:00",
+  "osm_opening_hours": "Mo-Su 07:30-22:00",
+  "notes": "Lange Öffnungszeiten, auch sonntags.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/2052990214"
+  ]
+ },
+ {
+  "name": "Mini-Market (Borbalán)",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (Borbalán)",
+  "lat": 28.08553,
+  "lon": -17.33662,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 08:30–21:30; Sa–So 08:30–14:00 & 16:00–21:30",
+  "osm_opening_hours": "Mo-Fr 08:30-21:30; Sa,Su 08:30-14:00,16:00-21:30",
+  "notes": "Der Supermarkt Charco del Conde (28.08592,-17.33695; Mo–Sa 08:00–13:00 & 17:00–20:00) liegt direkt nebenan.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/3065745186",
+   "https://www.openstreetmap.org/node/673064471"
+  ]
+ },
+ {
+  "name": "Frutería Gran Rey",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (Borbalán)",
+  "lat": 28.08569,
+  "lon": -17.33471,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 09:00–14:30; Sa 09:00–13:30; So geschlossen",
+  "osm_opening_hours": "Mo-Fr 09:00-14:30; Sa 09:00-13:30",
+  "notes": "Frisches Obst und Gemüse.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/3065745183"
+  ]
+ },
+ {
+  "name": "Disfrut La Gomera (café)",
+  "category": "snack",
+  "village": "Valle Gran Rey (Borbalán)",
+  "lat": 28.08602,
+  "lon": -17.33679,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–Fr 08:00–15:30; Sa–So 08:00–13:00 & 16:00–19:00; Mo geschlossen",
+  "osm_opening_hours": "Tu-Fr 08:00-15:30; Sa,Su 08:00-13:00,16:00-19:00",
+  "notes": "Telefon +34 922 575 637.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/13428322302",
+   "https://disfrutlagomera.com/"
+  ]
+ },
+ {
+  "name": "Bar Restaurante Charco del Conde",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (Charco del Conde)",
+  "lat": 28.08605,
+  "lon": -17.33723,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 12:00–22:00; Sa 12:00–15:00; So geschlossen",
+  "osm_opening_hours": "Mo-Fr 12:00-22:00; Sa 12:00-15:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/2113852948"
+  ]
+ },
+ {
+  "name": "Olivier",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (La Condesa / Vueltas)",
+  "lat": 28.08357,
+  "lon": -17.33467,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Sa 08:15–20:30; So & Feiertage 08:15–13:30",
+  "osm_opening_hours": "Mo-Sa 08:15-20:30; Su,PH 08:15-13:30",
+  "notes": "Laut OSM auch am 8.12. bis 13:30 geöffnet.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/318877459"
+  ]
+ },
+ {
+  "name": "Supermercado Valle Gran Rey / NaturVal Gran Rey",
+  "category": "supermarket",
+  "village": "Valle Gran Rey (Vueltas)",
+  "lat": 28.08336,
+  "lon": -17.33399,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: Mo–Sa 08:30–20:00; So 09:00–13:00",
+  "osm_opening_hours": "",
+  "notes": "NaturVal (Bio) liegt bei 28.08345,-17.33406. Bazar Lilia (28.08365,-17.33474) ist ein kleiner Gemischtwarenladen.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/1496492690",
+   "https://www.openstreetmap.org/node/11147861496"
+  ]
+ },
+ {
+  "name": "Comercial Youremar",
+  "category": "hardware",
+  "village": "Valle Gran Rey (Vueltas)",
+  "lat": 28.08298,
+  "lon": -17.33363,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 08:00–13:00 & 16:00–19:00; Sa 08:00–13:00",
+  "osm_opening_hours": "Mo-Fr 08:00-13:00,16:00-19:00; Sa 08:00-13:00",
+  "notes": "Eisenwarenladen, beste Chance auf Gaskartuschen in VGR. Sortiment NICHT bestätigt. Alternative ist Ferro Gomera (28.08804,-17.33513, Borbalán), Öffnungszeiten unbekannt.",
+  "confidence": "B (Sortiment unbestätigt)",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=Ferreter%C3%ADa&viewbox=-17.40,28.25,-17.05,27.95&bounded=1&format=json"
+  ]
+ },
+ {
+  "name": "Timah Shop (hiking gear)",
+  "category": "outdoor",
+  "village": "Valle Gran Rey (La Puntilla)",
+  "lat": 28.08749,
+  "lon": -17.33896,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 10:30–13:00 & 17:30–19:30; So 18:00 (Website; Sa nicht angegeben)",
+  "osm_opening_hours": "Mo-Fr 10:30-13:00,17:30-19:30",
+  "notes": "Verkauft Wanderschuhe, Rucksäcke und Stöcke. Die Website erwähnt keine Gaskartuschen, also nachfragen. Telefon +34 616 472 250.",
+  "confidence": "A (Gas unbestätigt)",
+  "sources": [
+   "https://www.timah.net/timah-shop.html",
+   "https://www.timah.net/"
+  ]
+ },
+ {
+  "name": "El Puerto",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (Hafen Vueltas)",
+  "lat": 28.08228,
+  "lon": -17.3336,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 13:00–22:00",
+  "osm_opening_hours": "Mo-Su 13:00-22:00",
+  "notes": "Telefon +34 922 805 224.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/1477269043"
+  ]
+ },
+ {
+  "name": "Bar Restaurante Dónde Aitor",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (Vueltas)",
+  "lat": 28.0831,
+  "lon": -17.33375,
+  "coord_confidence": "hoch",
+  "opening_hours": "Do–Mo 09:00–22:00; Di–Mi geschlossen",
+  "osm_opening_hours": "Th-Mo 09:00-22:00",
+  "notes": "Telefon +34 634 340 584. Am Mi 25.11. (deinem Ankunftstag) geschlossen.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/8426678017"
+  ]
+ },
+ {
+  "name": "Café der anderen Art (Bistro)",
+  "category": "snack",
+  "village": "Valle Gran Rey (Vueltas)",
+  "lat": 28.08346,
+  "lon": -17.33444,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Mi, Fr–So 09:00–24:00; Do 13:00–24:00",
+  "osm_opening_hours": "Mo-We,Fr-Su 09:00-24:00; Th 13:00-24:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/372111095"
+  ]
+ },
+ {
+  "name": "Esperanto / De Gusto / Tambara",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (Vueltas)",
+  "lat": 28.08311,
+  "lon": -17.33488,
+  "coord_confidence": "hoch",
+  "opening_hours": "Esperanto Mi–So & Feiertage 14:00–22:00; De Gusto Di–Sa 12:30–21:30; Tambara Mo–Sa 12:00–15:00 & 17:00–24:00, Mi geschlossen, So 18:00–24:00",
+  "osm_opening_hours": "De Gusto: Tu-Sa 12:30-21:30",
+  "notes": "Esperanto liegt bei 28.08248,-17.33261, De Gusto bei 28.08311,-17.33488, Tambara bei 28.08308,-17.3351. Am Mi 25.11. haben nur De Gusto und Esperanto geöffnet.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/3065745181",
+   "https://www.openstreetmap.org/node/10812598705",
+   "https://www.openstreetmap.org/node/476749138"
+  ]
+ },
+ {
+  "name": "Abraxas (bakery + restaurant)",
+  "category": "restaurant",
+  "village": "Valle Gran Rey (La Puntilla)",
+  "lat": 28.08849,
+  "lon": -17.33885,
+  "coord_confidence": "hoch",
+  "opening_hours": "Restaurant Mo–Mi, Fr–So 18:30–23:00; Bäckerei So–Do 17:00–22:00 (OSM)",
+  "osm_opening_hours": "Mo-We,Fr-Su 18:30-23:00",
+  "notes": "Telefon +34 922 805 982. Nur abends. Außerdem Pizzeria Pinocchio (28.08814,-17.33879; Mo–Sa 18:00–23:00) und La Pardela (28.08911,-17.33884; Mi–So 18:00–22:00).",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/480959214",
+   "https://www.openstreetmap.org/node/6326384471"
+  ]
+ },
+ {
+  "name": "Roque Iquala",
+  "category": "snack",
+  "village": "La Dama",
+  "lat": 28.0543,
+  "lon": -17.30108,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–Sa 10:00–20:30 (Fr bis 23:00); So–Mo geschlossen",
+  "osm_opening_hours": "Tu-Sa 10:00-20:30; Fr 10:00-23:00",
+  "notes": "Am Do 26.11. (Ankunftstag) geöffnet. Der OSM-Eintrag ist bei den Freitagszeiten nicht eindeutig. Einzige Verpflegung in La Dama.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/6345044498"
+  ]
+ },
+ {
+  "name": "Chiringuito La Rajita",
+  "category": "snack",
+  "village": "La Dama (Strand La Rajita)",
+  "lat": 28.05028,
+  "lon": -17.29863,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 11:00–17:00, wetterabhängig",
+  "osm_opening_hours": "",
+  "notes": "Strandbar, saisonal. Im November eventuell geschlossen. In La Dama und Arguayoda gibt es keinen bestätigten Laden.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/6355257505"
+  ]
+ },
+ {
+  "name": "SPAR Alajeró",
+  "category": "supermarket",
+  "village": "Alajeró (Ort)",
+  "lat": 28.06077,
+  "lon": -17.23943,
+  "coord_confidence": "mittel (OSM-Straße 'Calle Columba'; SPAR nennt 'C/ Lomo los Cardos 8')",
+  "opening_hours": "SPAR-Website: Mo–Sa 08:30–20:30; So 08:30–13:30. OSM dagegen: Mo, Fr, Sa 09:30–13:30 & 17:00–19:00; Di–Do 09:00–17:00",
+  "osm_opening_hours": "Mo-Sa 08:30-20:30; Su 08:30-13:30",
+  "notes": "Telefon +34 922 895 478. Die Quellen widersprechen sich. Sei vor 13:30 da oder kauf vorher in La Dama oder Imada ein. Ankunft am Fr 27.11.",
+  "confidence": "A (Widerspruch zu B)",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/6486637428"
+  ]
+ },
+ {
+  "name": "Lara Kiosko La Vega",
+  "category": "snack",
+  "village": "Alajeró",
+  "lat": 28.06375,
+  "lon": -17.23932,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 09:00–21:00; Sa–So 11:00–21:00",
+  "osm_opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 11:00-21:00",
+  "notes": "",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/way/770874803"
+  ]
+ },
+ {
+  "name": "Cafetería Herrera / Mesón de Clemente",
+  "category": "snack",
+  "village": "Alajeró",
+  "lat": 28.05777,
+  "lon": -17.23424,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 08:00–22:00",
+  "osm_opening_hours": "",
+  "notes": "Herrera liegt bei 28.05777,-17.23424, Mesón de Clemente (Restaurant) bei 28.05693,-17.23346. Las Palmeras (28.05985,-17.23539) ist in OSM als 'off' (geschlossen) getaggt.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/4036061863",
+   "https://www.openstreetmap.org/way/211742896"
+  ]
+ },
+ {
+  "name": "Arcilia",
+  "category": "snack",
+  "village": "Imada",
+  "lat": 28.08617,
+  "lon": -17.24164,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Do, Sa, So 10:30–17:30; Fr geschlossen",
+  "osm_opening_hours": "Mo-Th,Sa,Su 10:30-17:30",
+  "notes": "Telefon +34 922 895 395. Am Fr 27.11. geschlossen, am Sa 28.11. geöffnet. Einzige Verpflegung in Imada.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/way/141727380"
+  ]
+ },
+ {
+  "name": "Tasca Pastranja",
+  "category": "restaurant",
+  "village": "Pastrana (nahe der Route Alajeró–Playa de Santiago)",
+  "lat": 28.06423,
+  "lon": -17.21375,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 12:00–17:00",
+  "osm_opening_hours": "",
+  "notes": "Prüfe, ob es an deiner Route liegt.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/3871262416"
+  ]
+ },
+ {
+  "name": "SPAR Playa de Santiago",
+  "category": "supermarket",
+  "village": "Playa de Santiago",
+  "lat": 28.02905,
+  "lon": -17.19649,
+  "coord_confidence": "hoch",
+  "opening_hours": "SPAR-Website: Mo–Sa 08:30–20:30 (kein Sonntag). OSM dagegen: Mo–So 08:00–21:00",
+  "osm_opening_hours": "Mo-Sa 08:30-20:30",
+  "notes": "Telefon +34 922 895 954. Die Quellen widersprechen sich beim Sonntag. Für den Abreisemorgen am So 29.11. besser Quintero oder Tagoror nutzen.",
+  "confidence": "A (Widerspruch zu B)",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/319070885"
+  ]
+ },
+ {
+  "name": "Supermercado Quintero",
+  "category": "supermarket",
+  "village": "Playa de Santiago",
+  "lat": 28.02912,
+  "lon": -17.19697,
+  "coord_confidence": "hoch",
+  "opening_hours": "Zwei OSM-Versionen: 'Mo–Sa 08:00–20:00; So 08:00–14:00' (Snapshot) oder 'Mi–Sa 08:00–17:00; So 08:00–13:00' (Nominatim). Beide nennen So 08:00–13:00/14:00.",
+  "osm_opening_hours": "Su 08:00-13:00",
+  "notes": "Plaza El Carmen. Gut für den Start am Sonntagmorgen. Superdiplo liegt bei 28.02906,-17.19704, Öffnungszeiten unbekannt.",
+  "confidence": "B (widersprüchlich)",
+  "sources": [
+   "https://www.openstreetmap.org/node/3919417859",
+   "https://www.openstreetmap.org/node/13307262108"
+  ]
+ },
+ {
+  "name": "Mini Market / Tagoror (Tecina side)",
+  "category": "supermarket",
+  "village": "Tecina / San Juanito",
+  "lat": 28.03123,
+  "lon": -17.19053,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–So 07:30–23:00, auch an Feiertagen",
+  "osm_opening_hours": "Mo-Su,PH 07:30-23:00",
+  "notes": "Touristenpreise, aber täglich geöffnet. Etwa 1 km vom Ortszentrum entfernt.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/6372218991",
+   "https://www.openstreetmap.org/node/6303701094"
+  ]
+ },
+ {
+  "name": "Pastelería Lelo",
+  "category": "snack",
+  "village": "Playa de Santiago",
+  "lat": 28.02988,
+  "lon": -17.19784,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 07:00–20:00; Sa 08:00–20:00; So geschlossen",
+  "osm_opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+  "notes": "Telefon +34 922 895 162. Am So 29.11. geschlossen.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/2511867050"
+  ]
+ },
+ {
+  "name": "Cafetería Rochila / Los Castaños / Los Chiko's",
+  "category": "snack",
+  "village": "Playa de Santiago (Plaza El Carmen)",
+  "lat": 28.0292,
+  "lon": -17.19689,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 08:00–22:00",
+  "osm_opening_hours": "",
+  "notes": "Drei Cafés rund um die Plaza. Außerdem Bar Tarajal (28.02977,-17.19358; 11:00–19:00, Do–Fr geschlossen) und die Pool Bar in Tecina (28.0303,-17.18893).",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/319070882",
+   "https://www.openstreetmap.org/node/3919417860",
+   "https://www.openstreetmap.org/node/2652539450"
+  ]
+ },
+ {
+  "name": "La Cuevita / Tasca Enyesque",
+  "category": "restaurant",
+  "village": "Playa de Santiago",
+  "lat": 28.02746,
+  "lon": -17.19856,
+  "coord_confidence": "hoch",
+  "opening_hours": "La Cuevita Di–Sa 13:00–16:00 & 19:00–22:00; Enyesque (28.02967,-17.19714) Do–Di 19:00–21:45 sowie Sa–So 13:00–15:00",
+  "osm_opening_hours": "Tu-Sa 13:00-16:00,19:00-22:00",
+  "notes": "Viele weitere Restaurants an der Uferpromenade: Casanova, Don Tomate, Kuss, Bodegón del Mar, Orone, La Marea, Öffnungszeiten unbekannt.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/319070685",
+   "https://www.openstreetmap.org/node/3917737998"
+  ]
+ },
+ {
+  "name": "Ferretería Ferroarzola",
+  "category": "hardware",
+  "village": "Playa de Santiago",
+  "lat": 28.0307,
+  "lon": -17.1982,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 08:00–19:00; Sa 08:30–13:00",
+  "osm_opening_hours": "Mo-Fr 08:00-19:00; Sa 08:30-13:00",
+  "notes": "Beste Chance auf Gaskartuschen an der Südküste. Sortiment NICHT bestätigt. Am Sa 28.11. bis 13:00 geöffnet, passt zu deiner Ankunft.",
+  "confidence": "B (Sortiment unbestätigt)",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=Ferreter%C3%ADa&viewbox=-17.40,28.25,-17.05,27.95&bounded=1&format=json"
+  ]
+ },
+ {
+  "name": "El Cabrito – no shop or bar found",
+  "category": "none",
+  "village": "El Cabrito",
+  "lat": 28.0638,
+  "lon": -17.1439,
+  "coord_confidence": "mittel (Knoten des Weilers)",
+  "opening_hours": "k. A.",
+  "osm_opening_hours": "",
+  "notes": "Laut OSM weder Essen noch Laden oder Bar, auch sonst nichts bestätigt. Nimm alles ab Playa de Santiago bis San Sebastián mit.",
+  "confidence": "B (Negativbefund)",
+  "sources": [
+   "https://www.openstreetmap.org/node/1"
+  ]
+ },
+ {
+  "name": "Supermercado Navarro",
+  "category": "supermarket",
+  "village": "Chipude",
+  "lat": 28.10955,
+  "lon": -17.28158,
+  "coord_confidence": "hoch",
+  "opening_hours": "Mo–Fr 08:00–14:00 & 17:00–20:00; Sa 09:00–14:00 & 17:00–20:00; So geschlossen",
+  "osm_opening_hours": "Mo-Fr 08:00-14:00,17:00-20:00; Sa 09:00-14:00,17:00-20:00",
+  "notes": "Bester Einkaufspunkt am GR 131 in der Inselmitte. Bar Navarro direkt nebenan (28.10957,-17.28148).",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/3799783672"
+  ]
+ },
+ {
+  "name": "Bar Restaurante Sonia",
+  "category": "restaurant",
+  "village": "Chipude",
+  "lat": 28.10954,
+  "lon": -17.28183,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 09:00–20:00",
+  "osm_opening_hours": "",
+  "notes": "Außerdem Bar La Hoya (28.10881,-17.28017), La Candela (28.11002,-17.28208) und Weingut/Weinprobe Altos de Chipude (28.11003,-17.28302, Öffnungszeiten prüfen).",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/323135101",
+   "https://www.openstreetmap.org/node/2295314489",
+   "https://www.altosdechipude.com/"
+  ]
+ },
+ {
+  "name": "Bar Los Camioneros",
+  "category": "restaurant",
+  "village": "Pavón / Los Apartaderos",
+  "lat": 28.10508,
+  "lon": -17.27556,
+  "coord_confidence": "hoch",
+  "opening_hours": "Di–Fr 07:00–22:00; Sa–So 10:00–22:00; Mo geschlossen",
+  "osm_opening_hours": "Tu-Fr 07:00-22:00; Sa-Su 10:00-22:00",
+  "notes": "Straßenbar direkt am GR 131 nahe Pavón.",
+  "confidence": "B",
+  "sources": [
+   "https://www.openstreetmap.org/node/2295314490"
+  ]
+ },
+ {
+  "name": "Maria / Victoria (El Cercado restaurants)",
+  "category": "restaurant",
+  "village": "El Cercado",
+  "lat": 28.11915,
+  "lon": -17.2866,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 12:00–17:00",
+  "osm_opening_hours": "",
+  "notes": "Maria bei 28.11915,-17.2866, Victoria bei 28.11904,-17.2865. Töpferdorf, kein bestätigter Laden.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/1534108069",
+   "https://www.openstreetmap.org/node/1534108071"
+  ]
+ },
+ {
+  "name": "Restaurante Laguna Grande",
+  "category": "restaurant",
+  "village": "Laguna Grande (NP Garajonay)",
+  "lat": 28.12597,
+  "lon": -17.25796,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: täglich 10:00–17:00",
+  "osm_opening_hours": "",
+  "notes": "Kioskartiges Restaurant am Rastplatz. Öffnungszeiten nicht auffindbar.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/319142026"
+  ]
+ },
+ {
+  "name": "SPAR La Villa (Avda. José Aguiar 40)",
+  "category": "supermarket",
+  "village": "Degollada de Peraza (Gemeinde San Sebastián)",
+  "lat": 28.10221,
+  "lon": -17.12304,
+  "coord_confidence": "mittel (SPAR nennt 'La Villa'; OSM verortet Straße und Spar hier, 1.7 km vom Ortszentrum entfernt)",
+  "opening_hours": "Mo–Sa 08:30–20:30; So 08:30–13:30",
+  "osm_opening_hours": "Mo-Sa 08:30-20:30; Su 08:30-13:30",
+  "notes": "Telefon +34 922 872 882. Möglicherweise der Supermarkt nahe Degollada de Peraza. Die Bars El Estudiante (28.10043,-17.12022), Severo (28.10076,-17.12128) und Ambulatorio (28.10189,-17.1231) liegen in derselben Gegend, Öffnungszeiten unbekannt.",
+  "confidence": "A (Lage mittel)",
+  "sources": [
+   "https://spartenerife.es/tu-tienda/",
+   "https://www.openstreetmap.org/node/7256310628"
+  ]
+ },
+ {
+  "name": "La Cabaña",
+  "category": "restaurant",
+  "village": "Umgebung Degollada de Peraza",
+  "lat": 28.10311,
+  "lon": -17.13184,
+  "coord_confidence": "hoch",
+  "opening_hours": "unbestätigt – typisch: 12:00–17:00",
+  "osm_opening_hours": "",
+  "notes": "Restaurant an der Straße Langrero/Peraza.",
+  "confidence": "C",
+  "sources": [
+   "https://www.openstreetmap.org/node/2575963355"
+  ]
+ }
+]

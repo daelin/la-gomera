@@ -1,0 +1,25 @@
+{
+  "name": "la-gomera-trek",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline-PWA: Wanderkarte La Gomera (GR 131 & GR 132) mit Wildcamping, Wasser und Verpflegung",
+  "scripts": {
+    "fetch:osm": "bash scripts/fetch-osm.sh all",
+    "build:routes": "node scripts/build-routes.mjs",
+    "build:protected": "node scripts/build-protected.mjs",
+    "build:pois": "node scripts/build-pois.mjs",
+    "build": "npm run build:routes && npm run build:protected && npm run build:pois && npm run build:gpx",
+    "serve": "npx --yes http-server -c-1 -p 8080 .",
+    "test": "node --test test/",
+    "build:gpx": "node scripts/build-gpx.mjs"
+  },
+  "devDependencies": {
+    "@turf/boolean-point-in-polygon": "^7.4.0",
+    "@turf/helpers": "^7.4.0",
+    "@turf/simplify": "^7.4.0",
+    "proj4": "^2.23.0",
+    "shapefile": "^0.6.6",
+    "sharp": "^0.35.5"
+  }
+}

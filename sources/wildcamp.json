@@ -1,0 +1,573 @@
+{
+  "_comment": "Kuratierte Wildcamping-/Biwak-Spots aus Wanderberichten (recherchiert 18.11.2026). Position: entweder lat/lon oder snap {route, km} = Punkt auf dem Track bei km X (GR132: Kilometer der gesamten Runde ab San Sebastián gegen den Uhrzeigersinn; GR131: ab Vallehermoso). coord_confidence: high = benannter Ort exakt, medium = Ort bekannt, Stelle ungefähr, low = aus Beschreibung abgeleitet (Suchbereich!).",
+  "spots": [
+    {
+      "id": "wc-jaragan",
+      "name": "Terrassen am Majona-Rücken bei Jaragán (km ~6)",
+      "coord_confidence": "low",
+      "route": "GR132",
+      "between": "San Sebastián – Enchereda",
+      "ground": "Grasige, leicht geneigte Feldterrassen. Nicht ganz eben, Max hat Flaschen unter die Isomatte gekeilt.",
+      "wind": "Offener Rücken, Windschutz nur mäßig. Hinter Terrassenmauern suchen.",
+      "privacy": "Gut. Abseits von Häusern, nachts nur Ziegen zu hören.",
+      "water": "Kein Wasser. Alles aus San Sebastián mitnehmen (4–5 l für Abend und nächsten Tag bis zur Caleta, km 24).",
+      "protected_area": "Außerhalb von Schutzgebieten. Der Parque Natural de Majona beginnt erst bei km 8,1.",
+      "notes": "Erste Nacht von Max (outdoorswithmax) etwa 5 km nach San Sebastián, mit 180°-Blick über den Barranco und Teide-Panorama. Ideal für den Ankunftstag mit der Fähre. Im November ist die Sonne ab ~18:15 weg, Aufbau gegen 17:00 einplanen.",
+      "sources": [
+        "https://outdoorswithmax.com/gr132-la-gomera/"
+      ],
+      "rating": 4,
+      "lat": 28.12307,
+      "lon": -17.13676
+    },
+    {
+      "id": "wc-cuevas-blancas",
+      "name": "Cuevas Blancas – verlassener Weiler (Abstecher ~2 km)",
+      "lat": 28.1443,
+      "lon": -17.1311,
+      "coord_confidence": "high",
+      "route": "GR132",
+      "between": "San Sebastián – Hermigua (ausgeschilderter Seitenweg)",
+      "ground": "Staubig, aber recht eben. Julian hat sein Zelt in einem überdachten Steinhaus aufgebaut.",
+      "wind": "Im Haus sehr gut geschützt.",
+      "privacy": "Gut. In einer der Höhlen lebt aber ein Einsiedler, also respektvoll bleiben.",
+      "water": "Brunnen im Weiler. Der Eimer an Pfanne und Seil war im Jan 2026 weg, also NICHT darauf verlassen.",
+      "protected_area": "Reserva Natural Especial de Puntallana / Parque Natural de Majona. Zelten verboten, laut Berichten aber toleriert.",
+      "notes": "Das Dach hat Löcher. Die Ruinen sind bei Starkregen wahrscheinlich unsicher. Im Barranco daneben gibt es Becken und alte Terrassen. Wegen Sturzflutgefahr nur auf einer Terrasse hoch über dem Bachbett zelten. Lohnt sich vor allem, wenn du über die Küstenvariante gehst.",
+      "sources": [
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132"
+      ],
+      "rating": 3
+    },
+    {
+      "id": "wc-enchereda-terrasse",
+      "name": "Terrasse unterhalb des Enchereda-Rückens",
+      "lat": 28.15,
+      "lon": -17.165,
+      "coord_confidence": "low",
+      "route": "GR132",
+      "between": "Enchereda (km 11) – Majona-Hochebene",
+      "ground": "Klassische Feldterrasse. Alex & Franzi haben ohne Zelt (Cowboy-Camping) geschlafen.",
+      "wind": "Nicht berichtet. Feuchte Luft, die Schlafsäcke waren klamm.",
+      "privacy": "Gut.",
+      "water": "Unterwegs kein Wasser. Max sah bei Enchereda einen halbvollen Regenwassertank, der auch leer sein kann.",
+      "protected_area": "Parque Natural de Majona. Zelten verboten, Kontrollen wurden nicht berichtet.",
+      "notes": "Ende Dezember bei Vollmond. Die Schlafsäcke waren morgens feucht und bis zum Vormittag wieder trocken.",
+      "sources": [
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC",
+        "https://der-eskapist.de/spanien/la-gomera-wildcamping-zelten-camping-erfahrungen-und-tipps/"
+      ],
+      "rating": 3
+    },
+    {
+      "id": "wc-majona-piste",
+      "name": "Majona-Hochebene: ebene Plätze an der Piste (Riscos de Juel)",
+      "coord_confidence": "low",
+      "route": "GR132",
+      "between": "Enchereda – Caleta de Hermigua (Abschnitt km ~12–23)",
+      "ground": "Ebene Flecken direkt neben der Erdpiste.",
+      "wind": "Exponiert. Carohat berichtet von starkem Wind, das Zelt hat die ganze Nacht geschüttelt.",
+      "privacy": "Kaum Verkehr, gut.",
+      "water": "Kein natürliches Wasser. An der Piste läuft eine Wasserleitung entlang, laut Berichten nicht trinkbar. Nächstes Wasser an der Caleta (km 24).",
+      "protected_area": "Parque Natural de Majona. Zelten verboten, laut Berichten toleriert.",
+      "notes": "Carohat (Feb 2020): „schöner ebener Platz mit Blick nach Teneriffa“. Ein Reddit-Wanderer hat auf diesem Abschnitt ebenfalls übernachtet. Bei Ostwind lieber eine Mulde oder die Leeseite einer Mauer suchen.",
+      "sources": [
+        "https://carohatwanderlust.wordpress.com/2020/02/03/gr132-auf-la-gomera-teil-1/",
+        "https://www.reddit.com/r/Ultralight/comments/aunte1/la_gomera_trip_report_gr_132_plus_some_extra/"
+      ],
+      "rating": 3,
+      "lat": 28.15666,
+      "lon": -17.1591
+    },
+    {
+      "id": "wc-caleta",
+      "name": "Playa de la Caleta (Hermigua) – Ermita, Picknickplatz, Duschen",
+      "lat": 28.17335,
+      "lon": -17.16685,
+      "coord_confidence": "high",
+      "route": "GR132",
+      "between": "Majona – Hermigua (km 24)",
+      "ground": "Kiesel und schwarze Steine. Der Picknickplatz ist betoniert. Am Strand gibt es eine kleine Windschutzmauer aus Steinen.",
+      "wind": "Windig. Max nutzte die Steinmauer, ein Reddit-Wanderer spannte ein Tarp hinter dem Duschhäuschen, Julian zeltete neben der Kapelle.",
+      "privacy": "Gering. Hier stehen Vans, Wohnmobile und ein deutscher Dauercamper. Polizei wurde nicht berichtet.",
+      "water": "Wasserhahn am Picknickplatz, dazu Toiletten, Waschbecken und Duschen. Mehrere Wanderer haben das Wasser getrunken, gekennzeichnet ist es nicht. Läden in Hermigua 2–3 km weiter.",
+      "protected_area": "Außerhalb der Schutzgebiete (Majona endet kurz davor).",
+      "notes": "Der beliebteste Platz für Nacht 1 oder 2. Die Wellen sind oft 2 m hoch und massiv, und ein Teil des Picknickplateaus ist ins Meer abgebrochen. Weit oben am Strand bleiben! Die Kapelle war abgeschlossen. Die Duschen sind Gold wert.",
+      "sources": [
+        "https://outdoorswithmax.com/gr132-la-gomera/",
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132",
+        "https://www.reddit.com/r/Ultralight/comments/aunte1/la_gomera_trip_report_gr_132_plus_some_extra/"
+      ],
+      "rating": 5
+    },
+    {
+      "id": "wc-mirador-vallehermoso",
+      "name": "Aussichtsrücken oberhalb Vallehermoso (Variante / Alternativa)",
+      "lat": 28.1704,
+      "lon": -17.2414,
+      "coord_confidence": "low",
+      "route": "GR132-ALT",
+      "between": "Juego de Bolas – Vallehermoso (Ort)",
+      "ground": "Gepflasterter Mirador oder felsiger Rücken.",
+      "wind": "Exponiert.",
+      "privacy": "Mittel.",
+      "water": "Letztes sicheres Wasser in Agulo (Läden, öffentliche Toilette).",
+      "protected_area": "Nahe Monumento Natural Roque Cano bzw. Roque Blanco. Zelten verboten.",
+      "notes": "Alex & Franzi haben an einem namenlosen Aussichtspunkt „kurz vor Vallehermoso“ übernachtet. Die Position ist am Mirador de Roque Blanco geschätzt. Die Suche ab 16:30 war schwierig, weil der Pfad schmal und steinig ist. Relevant nur, wenn du die Inlands-Alternativa über den Ort Vallehermoso gehst.",
+      "sources": [
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC",
+        "https://outdoorswithmax.com/gr132-la-gomera/"
+      ],
+      "rating": 2
+    },
+    {
+      "id": "wc-playa-vallehermoso",
+      "name": "Playa de Vallehermoso – Ermita de la Candelaria & Palmen",
+      "lat": 28.2021,
+      "lon": -17.2532,
+      "coord_confidence": "medium",
+      "route": "GR132",
+      "between": "Juego de Bolas – Playa de Vallehermoso (km 41), Start des GR 131",
+      "ground": "Ebene Flächen bei der Ermita und unter Palmen hinter dem Strand. Die sandigen Hänge eignen sich laut Carohat nicht fürs Zelt.",
+      "wind": "Mäßig. Am Unterstand bzw. an der Ermita etwas geschützt.",
+      "privacy": "Gering: Campervans, Musik und Rauchen am Strand (Julian). Abends sind Tagesgäste da.",
+      "water": "Der Wasserhahn an der Ermita ist laut OSM seit 05/2026 DEFEKT. Wasser aus Agulo (km 29,3) mitbringen. Im Ort Vallehermoso (2,5 km die Straße hinauf) gibt es SPAR und Suma.",
+      "protected_area": "Kein ENP laut amtlicher Karte.",
+      "notes": "Carohat hat im Februar unter Palmen am Strand geschlafen, wurde nachts nass geregnet und fand den Platz „definitiv keine gute Idee“ ohne Zelt. Julian ist wegen des Lärms weiter den Hang hinauf gestiegen (Felsrücken, km 43,3, +465 Hm). Wer noch Kraft hat, geht hoch. Sonst hier zelten und den steilen Anstieg ausgeruht am Morgen machen. Bei Starkregen nicht im Mündungsbereich des Barrancos zelten.",
+      "sources": [
+        "https://carohatwanderlust.wordpress.com/2020/02/01/camino-natural-auf-la-gomera-teil-2/",
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132"
+      ],
+      "rating": 2
+    },
+    {
+      "id": "wc-ruecken-playa-vallehermoso",
+      "name": "Felsrücken oberhalb der Playa de Vallehermoso (Aufstieg Richtung Coromoto)",
+      "coord_confidence": "low",
+      "route": "GR132",
+      "between": "Playa de Vallehermoso – Ermita del Coromoto",
+      "ground": "Kleiner, offener, felsiger Platz.",
+      "wind": "Exponierter Rücken. Gute Abspannleinen und große Steine nutzen.",
+      "privacy": "Gut.",
+      "water": "Oben kein Wasser. Der Hahn an der Ermita de la Candelaria (Playa) war laut OSM im Mai 2026 kaputt. Wasser aus Agulo mitbringen oder in Vallehermoso-Ort kaufen (2,5 km Abstecher). Am nächsten Morgen nach 3 km Wasserhahn in Santa Clara.",
+      "protected_area": "Kein Schutzgebiet laut amtlicher Karte.",
+      "notes": "Julian hat den Strand selbst gemieden: Rauchen, Musik und Campervans, laut. Er ist ein Stück den Hang hinauf gestiegen. Carohat lag im Februar unter Palmen am Strand, bekam nachts Regen ab und fand die sandigen Hänge ungeeignet. Fazit: Wasser am Strand nicht einplanen und oberhalb schlafen.",
+      "sources": [
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132",
+        "https://carohatwanderlust.wordpress.com/2020/02/01/camino-natural-auf-la-gomera-teil-2/"
+      ],
+      "rating": 3,
+      "lat": 28.20732,
+      "lon": -17.26214
+    },
+    {
+      "id": "wc-santa-clara",
+      "name": "Lavarücken bei der Ermita de Santa Clara",
+      "lat": 28.1972,
+      "lon": -17.2885,
+      "coord_confidence": "medium",
+      "route": "GR132",
+      "between": "Playa de Vallehermoso – Epina (km 47)",
+      "ground": "Flacher Lavarücken mit einer umgekehrt U-förmigen, weitgehend ebenen Liegefläche. Heringe halten im Vulkangestein NICHT.",
+      "wind": "Mäßig. Felsen haben Max die Abspannleinen beschädigt.",
+      "privacy": "Sehr gut. In der Ferne bellen Hunde.",
+      "water": "Direkt an der Ermita gibt es einen Wasserhahn („Robinet eau potable“, OSM) und eine Quelle mit sieben Holzrohren (Legende). Max hat hier aufgefüllt.",
+      "protected_area": "Kein Schutzgebiet laut amtlicher Karte.",
+      "notes": "Methode „großer Stein, kleiner Stein“ zum Abspannen. Max fand den Platz gegen 18:00, nach Einbruch der Dunkelheit wird die Suche schwierig. Zwischen Epina und Alojera gibt es Steinschlag, und laut Julian ist ein Abschnitt bei Alojera mit Zaun und Schildern gesperrt. Vor Ort die Umleitung beachten.",
+      "sources": [
+        "https://outdoorswithmax.com/gr132-la-gomera/",
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132"
+      ],
+      "rating": 4
+    },
+    {
+      "id": "wc-epina-wald",
+      "name": "Waldlichtung beim Aufstieg nach Epina (Alternativa / GR 131)",
+      "lat": 28.168,
+      "lon": -17.285,
+      "coord_confidence": "low",
+      "route": "GR132-ALT",
+      "between": "Vallehermoso (Ort) – Epina",
+      "ground": "Lichtung im Wald direkt am Pfad.",
+      "wind": "Durch Bäume geschützt, aber kalte Nacht.",
+      "privacy": "Schlecht. Am Morgen kam vor Sonnenaufgang ein fünfköpfiger Arbeitstrupp mit Helmen vorbei.",
+      "water": "Restaurant Los Chorros de Epina und die Quellen Chorros de Epina in der Nähe.",
+      "protected_area": "Nahe der Nationalparkgrenze. Bei den Chorros de Epina beginnt der Nationalpark Garajonay, dort ist Camping streng verboten!",
+      "notes": "Reddit: „nicht sehr diskret, knapp gut gegangen“. Vor Sonnenaufgang zusammenpacken.",
+      "sources": [
+        "https://www.reddit.com/r/Ultralight/comments/aunte1/la_gomera_trip_report_gr_132_plus_some_extra/",
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC"
+      ],
+      "rating": 2
+    },
+    {
+      "id": "wc-terrassen-alojera",
+      "name": "Terrassen kurz vor Alojera",
+      "coord_confidence": "medium",
+      "route": "GR132",
+      "between": "Epina – Alojera",
+      "ground": "Schöne, ebene Feldterrassen.",
+      "wind": "Mäßig. Neblig und feucht, weil die Wolken hier oft auf dieser Höhe hängen.",
+      "privacy": "Gut.",
+      "water": "Chorros de Epina (km 53) davor. In Alojera Läden (Superdiplo, Udaco), die Öffnungszeiten aber unzuverlässig.",
+      "protected_area": "Kein Schutzgebiet laut amtlicher Karte (Monumento Natural Lomo del Carretón beginnt bei km ~58,8).",
+      "notes": "Alex & Franzi kamen um 17:15 an. Die Schlafsäcke waren morgens nass, sie mussten einen Ruhetag zum Trocknen einlegen. Morgens auf Sonne hoffen und die Ausrüstung lüften.",
+      "sources": [
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC"
+      ],
+      "rating": 4,
+      "lat": 28.16328,
+      "lon": -17.31625
+    },
+    {
+      "id": "wc-playa-alojera",
+      "name": "Playa de Alojera – Felsbucht mit Sandflecken",
+      "lat": 28.16368,
+      "lon": -17.33476,
+      "coord_confidence": "medium",
+      "route": "GR132",
+      "between": "Alojera – Valle Gran Rey (Abstecher ~1 km)",
+      "ground": "Kleiner versteckter Sandfleck, nur über Kraxeln über Felsen erreichbar. Sonst Kiesstrand.",
+      "wind": "Nicht berichtet. Brandung und Klippen.",
+      "privacy": "Gut, man fühlt sich „völlig allein“.",
+      "water": "Alojera (Läden, Toiletten an der Playa, nicht geprüft).",
+      "protected_area": "Kein ENP laut amtlicher Karte. Eine offizielle Campingzone gibt es aber nicht.",
+      "notes": "Max hat hier gerastet. Die Guía Islas Canarias nennt die Playa de Alojera als einen in Foren erwähnten „möglichen“ Platz. Bei Sturm und Hochwasser auf Abstand zur Brandung bleiben und den Steinschlag von den Klippen beachten.",
+      "sources": [
+        "https://outdoorswithmax.com/gr132-la-gomera/",
+        "https://guiaislascanarias.com/la-gomera/acampar-en-la-gomera/"
+      ],
+      "rating": 3
+    },
+    {
+      "id": "wc-gerian-ermita",
+      "name": "Ermita de Gerián – Mirador am Ende des Aufstiegs aus Valle Gran Rey",
+      "lat": 28.10142,
+      "lon": -17.31044,
+      "coord_confidence": "medium",
+      "route": "GR132",
+      "between": "Valle Gran Rey – La Dama (km 73)",
+      "ground": "Gepflasterte Terrasse an der Ermita mit 360°-Blick. Daneben kleine Flecken auf Erde und Fels.",
+      "wind": "Exponiert, windig.",
+      "privacy": "Sichtbar, aber ruhig.",
+      "water": "Kein Wasser! In Valle Gran Rey für Abend, Nacht und den ganzen nächsten Tag bis La Dama (11 km) auffüllen, also 5–6 l. Laut Max ist das der trockenste Abschnitt.",
+      "protected_area": "Genau an der Grenze des Parque Rural Valle de Gran Rey (Zelten verboten). Laut amtlicher Karte liegt der Weg ab der Ermita bis km ~76,1 außerhalb.",
+      "notes": "Alex & Franzi haben hier nach dem langen Anstieg übernachtet, Max hörte ein Paar dort campen, und der Reddit-Wanderer traf an der Kapelle eine Französin. Alle drei Berichte meinen sehr wahrscheinlich diese Ermita. Die Position ist abgeleitet, weil kein Bericht den Namen nennt.",
+      "sources": [
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC",
+        "https://outdoorswithmax.com/gr132-la-gomera/",
+        "https://www.reddit.com/r/Ultralight/comments/aunte1/la_gomera_trip_report_gr_132_plus_some_extra/"
+      ],
+      "rating": 4
+    },
+    {
+      "id": "wc-gerian-ruecken",
+      "name": "Bergrücken bei Gerián (~670 m)",
+      "coord_confidence": "low",
+      "route": "GR132",
+      "between": "Ermita de Gerián – Playa de Iguala",
+      "ground": "Berghang mit Steinen.",
+      "wind": "Sehr schlecht. Bei Max ist das Zelt um 02:00 zweimal eingefallen, weil der Wind drehte und ein Stein nachgab.",
+      "privacy": "Gut.",
+      "water": "Kein Wasser (siehe Ermita de Gerián).",
+      "protected_area": "Außerhalb des Parque Rural laut amtlicher Karte (Grenze bei km ~76,1).",
+      "notes": "Max rät, möglichst tief zu zelten, die Windrichtung (z. B. mit Meteoblue) zu prüfen und mit Drehen zu rechnen. Hinter Ruinen oder Terrassenmauern von Gerián nach Schutz suchen.",
+      "sources": [
+        "https://outdoorswithmax.com/gr132-la-gomera/"
+      ],
+      "rating": 2,
+      "lat": 28.09455,
+      "lon": -17.31297
+    },
+    {
+      "id": "wc-iguala",
+      "name": "Playa de Iguala – Kiesstrand mit Steinkreisen",
+      "lat": 28.05915,
+      "lon": -17.31598,
+      "coord_confidence": "high",
+      "route": "GR132",
+      "between": "Gerián – La Dama (km 80)",
+      "ground": "Flacher Kies in Ringen aus aufgeschichteten runden schwarzen Steinen. Im Winter ist der Sand oft vom Kies überdeckt.",
+      "wind": "Die Steinkreise schützen gut. Laute Brandung.",
+      "privacy": "Mittel. Max fand hier eine bewohnte Höhle.",
+      "water": "Kein Wasser. Im Café in La Dama (5 km, Roque Iguala) gibt es Wasser in Flaschen.",
+      "protected_area": "Grenzbereich des Parque Rural Valle de Gran Rey: Der Weg davor liegt drin, der Strand laut amtlicher Karte knapp außerhalb. Diskret bleiben.",
+      "notes": "Julian (Jan 2026): „mein Zelt passte perfekt in einen der Steinkreise“. Der Abstieg nach Iguala und der Gegenanstieg nach La Dama sind sehr steil. Bei hohem Seegang und Sturm nicht direkt an der Wasserlinie bleiben.",
+      "sources": [
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132",
+        "https://outdoorswithmax.com/gr132-la-gomera/"
+      ],
+      "rating": 4
+    },
+    {
+      "id": "wc-rajita",
+      "name": "Terrasse über der Playa de la Rajita",
+      "lat": 28.052,
+      "lon": -17.298,
+      "coord_confidence": "medium",
+      "route": "GR132",
+      "between": "La Dama – Arguayoda (km 86)",
+      "ground": "Flache, geräumte Feldterrasse.",
+      "wind": "Gut. Max hat sie gezielt gewählt, um dem Wind zu entkommen.",
+      "privacy": "Gut. Die Einheimischen „stört es nicht, solange man nicht im Dorf ist“.",
+      "water": "Café Roque Iguala in La Dama ca. 1 km zurück (Di–Sa). Strandbar Chiringuito La Rajita saisonal und im Nov vielleicht zu. Am nächsten Morgen nach 2,5 km Wasserhahn in Arguayoda (OSM).",
+      "protected_area": "Paisaje Protegido de Orone. Zelten verboten.",
+      "notes": "Max hat kurz vor Sonnenuntergang aufgebaut, nachdem er den Fischern zugeschaut hatte. Zwischen La Dama und Alajeró sind die Morgen in den Barrancos oft feucht und sonnenlos, deshalb lieber hoch zelten.",
+      "sources": [
+        "https://outdoorswithmax.com/gr132-la-gomera/"
+      ],
+      "rating": 4
+    },
+    {
+      "id": "wc-barranco-rand",
+      "name": "Terrassen am Barranco-Rand ~7 km nach La Dama",
+      "coord_confidence": "low",
+      "route": "GR132",
+      "between": "Arguayoda – Alajeró",
+      "ground": "Alte Feldterrassen, eine mit Pfad vom Rand hinunter.",
+      "wind": "Hinter einer Mauer geschützt. Der Reddit-Wanderer hatte nur einen Biwaksack dabei.",
+      "privacy": "Sehr ruhig.",
+      "water": "Wasserhahn in Arguayoda (km 89,2, OSM) etwa 3 km vorher, dann die Bar und der Spar in Alajeró (km 98).",
+      "protected_area": "Paisaje Protegido de Orone (bis km ~93,9). Zelten verboten.",
+      "notes": "Julian und ein Reddit-Wanderer haben in diesem Bereich übernachtet, in der Nähe gibt es Höhlen (Barranco de la Negra). Alex & Franzi lagen dagegen in einem tiefen Barranco auf 465 m: 14 °C, aber die Schlafsäcke waren „tropfnass“, weil keine Sonne hinkommt. Also auf hohe Terrassen, nie in die Barrancosohle!",
+      "sources": [
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132",
+        "https://www.reddit.com/r/Ultralight/comments/aunte1/la_gomera_trip_report_gr_132_plus_some_extra/",
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC"
+      ],
+      "rating": 3,
+      "lat": 28.06558,
+      "lon": -17.26173
+    },
+    {
+      "id": "wc-lomo-carreton",
+      "name": "Hochfläche Lomo del Carretón / Mirador de la Retama (oberhalb Arure)",
+      "lat": 28.12605,
+      "lon": -17.32727,
+      "coord_confidence": "medium",
+      "unverified": true,
+      "route": "GR132",
+      "between": "Arure – Valle Gran Rey (GR 132 km ~63)",
+      "ground": "Laut Karte offene Hochfläche auf ~800 m mit alten Terrassen und Ruinen (OSM, ~750 m entfernt). Untergrund vor Ort prüfen.",
+      "wind": "Exponiert auf ~800 m, oft Passat-Wolken und Wind. Schutz hinter Terrassenmauern suchen.",
+      "privacy": "Ca. 1 km außerhalb von Arure, zwischen Mirador de la Retama und dem Abstieg nach Valle Gran Rey.",
+      "water": "Hier kein Wasser. In Arure (km ~61) im Restaurant El Jape (täglich 06:30–22:00) oder in der Bäckerei Los Reyes kaufen. Vorher Quelle Chorros de Epina (km 53) und Läden in Alojera (km 57).",
+      "protected_area": "Laut amtlicher Karte liegt der Weg genau hier (km ~62,3–62,8) zwischen dem Monumento Natural Lomo del Carretón und dem Parque Rural Valle Gran Rey, also außerhalb beider. Nur ein schmales Fenster, auf GPS-Hinweis in der App achten!",
+      "notes": "KEINE Wanderberichte. Dieser Planungsvorschlag ist nötig, weil zwischen Alojera und Gerián fast alles Schutzgebiet ist und der Tag sonst über 10 h dauern würde. Ausweichen kannst du auf eine Unterkunft in Arure oder Valle Gran Rey.",
+      "sources": [
+        "https://www.openstreetmap.org/#map=16/28.1261/-17.3273"
+      ],
+      "rating": 2
+    },
+    {
+      "id": "wc-altamache",
+      "name": "Ruinen und Terrassen bei Altamache (Abstieg Alajeró → Playa de Santiago)",
+      "lat": 28.04145,
+      "lon": -17.20807,
+      "coord_confidence": "high",
+      "unverified": true,
+      "route": "GR132",
+      "between": "Alajeró – Playa de Santiago (GR 132 km ~104,5)",
+      "ground": "Verfallenes Gebäude (OSM historic=ruins) 25 m neben dem Weg, umgeben von alten Feldterrassen auf ~330 m.",
+      "wind": "Hangexposition nach Süden. Mauern der Ruine geben Windschutz.",
+      "privacy": "Gut. Über 1 km zum nächsten Ort, Weiler Altamache und Teberbite in der Umgebung.",
+      "water": "Hier kein Wasser. Wasserhahn in Alajeró (km 97,1), Spar und Bars in Alajeró. Am nächsten Morgen nach 3,5 km Playa de Santiago (Läden, Hähne).",
+      "protected_area": "Kein ENP laut amtlicher Karte.",
+      "notes": "KEINE Wanderberichte für diese Stelle. Sie ist aus OSM-Daten abgeleitet (Ruine am Weg, außerhalb von Schutzgebieten und Dörfern). Ruinen nicht betreten, wenn sie einsturzgefährdet sind. Ausweichen kannst du auf die Terrassen davor oder danach.",
+      "sources": [
+        "https://www.openstreetmap.org/way/140706573"
+      ],
+      "rating": 2
+    },
+    {
+      "id": "wc-tapahuga",
+      "name": "Playa del Medio / Tapahuga – Strand mit „Hippie-Camp“",
+      "lat": 28.0375,
+      "lon": -17.1811,
+      "coord_confidence": "medium",
+      "route": "GR132",
+      "between": "Playa de Santiago – El Cabrito (km ~110)",
+      "ground": "Kiesstrand.",
+      "wind": "Je nach Windrichtung.",
+      "privacy": "Keine: Hier stehen dauerhaft Vans und etwa 15 Zelte.",
+      "water": "In Playa de Santiago (1–2 km zurück) Supermärkte, öffentliche Wasserhähne laut OSM.",
+      "protected_area": "Kein ENP laut amtlicher Karte. Bei Beschwerden räumt die Polizei gelegentlich Strand- und Höhlencamps.",
+      "notes": "Max hat bewusst nicht hier gezeltet („fühlte sich fast wie ein Campingplatz an“) und ist weitergegangen. Notlösung, wenn es spät wird.",
+      "sources": [
+        "https://outdoorswithmax.com/gr132-la-gomera/",
+        "https://der-eskapist.de/spanien/la-gomera-wildcamping-zelten-camping-erfahrungen-und-tipps/"
+      ],
+      "rating": 2
+    },
+    {
+      "id": "wc-chinguarime",
+      "name": "Klippen und Steinkreis im Barranco de Chinguarime",
+      "coord_confidence": "low",
+      "route": "GR132",
+      "between": "Playa de Santiago – El Cabrito",
+      "ground": "Klippenrand. Julian fand im Barranco de Chinguarime einen geräumten, runden Steinkreis.",
+      "wind": "Max fand einen Platz hinter einer Windschutzmauer.",
+      "privacy": "Gut. An Silvester gab es Hotelfeuerwerk.",
+      "water": "Kein Wasser. In Playa de Santiago auffüllen (Quintero, Tagoror Mini Market). Im Eco-Hotel El Cabrito bekamen Alex & Franzi Getränke und Wasser.",
+      "protected_area": "Kein ENP laut amtlicher Karte. Das Monumento Natural Barranco del Cabrito beginnt bei km ~118,7.",
+      "notes": "Bei Mondlicht war es „wie mit Straßenlaternen“. Im Barranco nur auf erhöhten Stellen zelten, nicht in der Abflussrinne.",
+      "sources": [
+        "https://outdoorswithmax.com/gr132-la-gomera/",
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC",
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132"
+      ],
+      "rating": 3,
+      "lat": 28.04864,
+      "lon": -17.17874
+    },
+    {
+      "id": "wc-contreras",
+      "name": "Contreras / Morales – verlassene Weiler mit Terrassen",
+      "lat": 28.06493,
+      "lon": -17.17403,
+      "coord_confidence": "medium",
+      "route": "GR132",
+      "between": "Playa de Santiago – El Cabrito (km ~116–118)",
+      "ground": "Ebene Terrassen.",
+      "wind": "Reichte für Biwaksack ohne Tarp.",
+      "privacy": "Sehr gut, abends kam aber eine Schafherde vorbei.",
+      "water": "Kein Wasser. Alles aus Playa de Santiago mitnehmen.",
+      "protected_area": "Kein ENP laut amtlicher Karte.",
+      "notes": "Die letzte Nacht des Reddit-Wanderers, „völlig still“. Alex & Franzi sahen „hunderte Terrassen, Ruinen, keine Straßen“. Morales liegt ca. 2 km weiter am Weg (28.0736,-17.1635).",
+      "sources": [
+        "https://www.reddit.com/r/Ultralight/comments/aunte1/la_gomera_trip_report_gr_132_plus_some_extra/",
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC"
+      ],
+      "rating": 4
+    },
+    {
+      "id": "wc-berruga",
+      "name": "Rastplatz Berruga (Wiesen, Palmen)",
+      "lat": 28.072,
+      "lon": -17.168,
+      "coord_confidence": "low",
+      "route": "GR132",
+      "between": "Contreras/Morales – El Cabrito",
+      "ground": "Wiesen mit Palmen auf ~500–800 m.",
+      "wind": "Nicht berichtet.",
+      "privacy": "Abgelegen.",
+      "water": "Kein Wasser („leider kein Wasser“, HikingExperience).",
+      "protected_area": "Nicht klar zugeordnet (nahe Barranco del Cabrito).",
+      "notes": "HikingExperience nannte den Platz „perfekt zum Campen“, ist selbst aber mit Pensionen gewandert. Die genaue Lage ist unklar.",
+      "sources": [
+        "https://www.hikingexperience.net/en/trails/trekking-gr-132/"
+      ],
+      "rating": 2
+    },
+    {
+      "id": "wc-rosa-piedras",
+      "name": "Verlassene Obstterrassen bei Rosa de las Piedras (GR 131)",
+      "lat": 28.1676,
+      "lon": -17.2643,
+      "coord_confidence": "medium",
+      "route": "GR131",
+      "between": "Vallehermoso – Las Hayas (GR 131 km ~5)",
+      "ground": "Terrassen mit hohem Gras, Obstbäumen und Palmen.",
+      "wind": "Geschützt.",
+      "privacy": "Gut. Ein Einheimischer hat Julian den Platz gezeigt.",
+      "water": "Hier kein Wasser. Auf dem GR 131 gibt es einen Wasserhahn am Picknickplatz der Ermita de Las Hayas, in Vallehermoso Läden.",
+      "protected_area": "Außerhalb des Nationalparks (dieser beginnt auf dem GR 131 bei km ~10).",
+      "notes": "Julian: „eine perfekte letzte Nacht“ (er ist den GR 131 in umgekehrter Richtung gegangen). Rosa de las Piedras ist der Weiler, die genaue Terrasse liegt in der Nähe.",
+      "sources": [
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132"
+      ],
+      "rating": 4
+    },
+    {
+      "id": "wc-gr131-pavon",
+      "name": "GR 131: vor der Nationalparkgrenze bei Pavón (östlich Chipude)",
+      "coord_confidence": "low",
+      "route": "GR131",
+      "between": "Chipude – Igualero",
+      "ground": "Nicht beschrieben, Terrassen- und Weideflächen um Pavón.",
+      "wind": "Hochlage über 1000 m, kalt und oft windig.",
+      "privacy": "Mittel.",
+      "water": "In Chipude (Bar, Laden Navarro, So geschlossen) und am Wasserhahn der Ermita de Las Hayas.",
+      "protected_area": "Gleich danach beginnen das Monumento Natural La Fortaleza (km ~19,3), Orone und der NATIONALPARK (km ~21–32). Dort auf keinen Fall zelten!",
+      "notes": "Alex & Franzi haben „kurz vor der Nationalparkgrenze“ westlich davon übernachtet. Die genaue Lage ist unbekannt. Im Weiler Pavón bzw. Los Apartaderos liegt die Bar Los Camioneros (Di–Fr 07:00–22:00, Sa–So 10:00–22:00, Mo zu). Abseits der Straße auf Terrassen ausweichen.",
+      "sources": [
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC"
+      ],
+      "rating": 3,
+      "lat": 28.10393,
+      "lon": -17.27578
+    },
+    {
+      "id": "wc-gr131-palmenterrasse",
+      "name": "GR 131: Palmenterrasse ~800 m, ca. 8 km vor San Sebastián",
+      "coord_confidence": "low",
+      "route": "GR131",
+      "between": "Degollada de Peraza – Ayamosna",
+      "ground": "Terrasse mit Palmen.",
+      "wind": "Nicht berichtet.",
+      "privacy": "Gut.",
+      "water": "Etwa 2 km vorher liegt ein Rastplatz mit Wasser, an der Degollada de Peraza gibt es Bar und Restaurant.",
+      "protected_area": "Außerhalb des Nationalparks (endet auf dem GR 131 bei km ~31,4).",
+      "notes": "Alex & Franzi. Julian fand ebenfalls Plätze etwa 3 km außerhalb von San Sebastián und ungefähr 1 h nach dem Alto de Garajonay, die zweite Stelle liegt aber vermutlich im Nationalpark.",
+      "sources": [
+        "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC",
+        "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132"
+      ],
+      "rating": 2,
+      "lat": 28.10209,
+      "lon": -17.17146
+    }
+  ],
+  "official": [
+    {
+      "id": "off-la-vista",
+      "name": "Camping La Vista (El Cedro) – offizieller Campingplatz",
+      "lat": 28.13726,
+      "lon": -17.21457,
+      "coord_confidence": "high",
+      "status": "open",
+      "hours": "Ganzjährig geöffnet (laut Betreiber und Reiseseiten), Restaurant Di–So 09:00–18:00, Mo Ruhetag. Vorher anrufen: +34 922 88 09 49 / 922 88 08 04",
+      "cost": "Laut älteren Berichten ca. 2 €/Nacht, aktueller Preis nicht bestätigt",
+      "permit": "Kein Cabildo-Permit nötig, direkt beim Platz buchen bzw. anmelden.",
+      "facilities": "Zelte only (keine Fahrzeuge), Warm-/Kaltduschen im Freien, Toiletten, überdachte Plätze, Grills (nur Holzkohle/Gas), Trinkwasser, Restaurant.",
+      "notes": "Der EINZIGE legale Zeltplatz in Reichweite der Route. Er liegt auf ~850 m am Rand des Nationalparks Garajonay, oberhalb von Hermigua. Vom GR 132 ist es ein langer Abstecher, über Hermigua und den Wanderweg durch das Barranco del Cedro bzw. El Cedro ca. 6–7 km und 700 Hm. Gut als Ruhetag oder Schlechtwetter-Option. Oft feucht und kühl, dafür Lorbeerwald und der Wasserfall El Chorro del Cedro.",
+      "sources": [
+        "https://camping-lavista.jimdofree.com/",
+        "https://guiaislascanarias.com/la-gomera/acampar-en-la-gomera/",
+        "https://canariasislasafortunadas.com/la-gomera/camping-la-gomera/",
+        "https://www.openstreetmap.org/way/444030398"
+      ]
+    },
+    {
+      "id": "off-avalos",
+      "name": "Zona de acampada municipal Playa de Ávalos (San Sebastián)",
+      "lat": 28.1116,
+      "lon": -17.106,
+      "coord_confidence": "medium",
+      "status": "closed",
+      "hours": "Nur im Sommer, wenn die Gemeinde sie freigibt. Im November vermutlich GESCHLOSSEN.",
+      "cost": "Kostenlos (berichtet)",
+      "permit": "Genehmigung beim Ayuntamiento de San Sebastián de La Gomera. Infos über das Cabildo, Tel. 922 140 100.",
+      "facilities": "Keine (kein Wasser, kein Schatten, keine Mülleimer).",
+      "notes": "Liegt am Südrand der Reserva Natural Especial de Puntallana nahe dem ersten Abschnitt. Ob es die Zone noch gibt, ist unklar (Der Eskapist konnte es nicht bestätigen). Für Ende November nicht einplanen.",
+      "sources": [
+        "https://guiaislascanarias.com/la-gomera/acampar-en-la-gomera/",
+        "https://guiaislascanarias.com/la-gomera/playa-de-avalos/",
+        "https://canariasislasafortunadas.com/la-gomera/camping-la-gomera/"
+      ]
+    }
+  ],
+  "legal": {
+    "summary": "Wildcampen und Biwakieren außerhalb offizieller Plätze ist auf La Gomera VERBOTEN (Orden vom 31.08.1993, BOC 17.09.1993, und das kanarische Naturschutzrecht). Eine Ausnahme für „eine Nacht ohne Spuren“ gibt es nicht. Im Nationalpark Garajonay sind Zelten UND Biwak ausdrücklich verboten und werden kontrolliert. Feuer und Kocher sind dort nur in den Áreas recreativas erlaubt. Einen offiziellen Bußgeldkatalog haben wir nicht gefunden, berichtet wird alles von einer Verwarnung bis zu „mehreren hundert Euro“, vor allem im Nationalpark.",
+    "practice": "Alle gefundenen Berichte (Dez–Feb) beschreiben diskretes Übernachten auf dem GR 132 als toleriert: spät aufbauen (ab ~17:30), vor Sonnenaufgang abbauen, außer Sichtweite von Dörfern, kein Feuer, keine Gruppen, keine Spuren. Schlimmstenfalls wirst du geweckt und kontrolliert. Strengere Kontrollen gibt es im Nationalpark und an Stränden (gelegentliche Räumungen nach Beschwerden).",
+    "tips": [
+      "Tageslicht Ende Nov: ca. 07:35–18:15 (WET, UTC+0). Ab ~17:00 einen Platz suchen.",
+      "November gehört zur Regenzeit (Nov–Feb). Rechne mit Regen, starkem Tau und Wind. Das Zelt gut lüften und auf erhöhten Terrassen mit Morgensonne zelten.",
+      "Nie in der Barrancosohle zelten: Sturzflutgefahr und nasse, sonnenlose Morgen.",
+      "Heringe halten im Vulkangestein oft nicht. Abspannen mit „großer Stein auf kleinem Stein“ und Ersatzleine mitnehmen.",
+      "Wind dreht nachts häufig, Prognose z. B. bei Meteoblue prüfen und die Zelttür in Lee ausrichten.",
+      "Kein offenes Feuer. Hohe Waldbrandgefahr, Kocher nur auf blankem Fels und windgeschützt.",
+      "Wasser ist das Hauptproblem: 4–6 l zwischen Versorgungspunkten tragen. Leitungswasser ist gechlort, Quellen und Brunnen filtern oder aufbereiten."
+    ]
+  }
+}

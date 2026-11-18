@@ -1,0 +1,55 @@
+[
+  {
+    "id": "wx-caleta",
+    "name": "Wasserhahn & Duschen Playa de la Caleta",
+    "lat": 28.17313,
+    "lon": -17.16672,
+    "sub": "Wasserhahn (Wanderberichte)",
+    "reliability": "hoch",
+    "desc": "Wasserhahn am Picknickplatz sowie Toiletten, Waschbecken und Duschen. Max, Julian und ein Reddit-Wanderer haben hier getrunken und aufgefüllt. Beschildert ist das Wasser nicht. Wichtigster Wasserpunkt zwischen San Sebastián und Hermigua.",
+    "sources": [
+      "https://outdoorswithmax.com/gr132-la-gomera/",
+      "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132",
+      "https://www.reddit.com/r/Ultralight/comments/aunte1/la_gomera_trip_report_gr_132_plus_some_extra/"
+    ]
+  },
+  {
+    "id": "wx-enchereda-tank",
+    "name": "Regenwassertank bei Enchereda",
+    "coord_confidence": "low",
+    "sub": "Zisterne (Wanderberichte)",
+    "reliability": "niedrig",
+    "desc": "Max sah hier einen halbvollen Regenwassertank. Er kann leer sein, und die Wasserqualität ist unbekannt: nur im Notfall und nur gefiltert oder abgekocht. Position geschätzt.",
+    "sources": [
+      "https://outdoorswithmax.com/gr132-la-gomera/"
+    ],
+    "lat": 28.13485,
+    "lon": -17.16862
+  },
+  {
+    "id": "wx-cuevas-blancas",
+    "name": "Brunnen Cuevas Blancas",
+    "lat": 28.144,
+    "lon": -17.1308,
+    "coord_confidence": "medium",
+    "sub": "Brunnen (Wanderberichte)",
+    "reliability": "niedrig",
+    "desc": "Brunnen im verlassenen Weiler. Julians Schöpfeimer (Pfanne an Seil) war im Januar 2026 weg, eigene Schnur und ein Gefäß wären nötig. Unbedingt filtern. Nicht einplanen.",
+    "sources": [
+      "https://www.juliantramper.nl/en/wild-camping-la-gomera-gr131-gr132"
+    ]
+  },
+  {
+    "id": "wx-el-cabrito",
+    "name": "Eco-Hotel Finca El Cabrito – Getränke & Wasser",
+    "lat": 28.064,
+    "lon": -17.1436,
+    "coord_confidence": "medium",
+    "sub": "Nachfüllen gegen Nachfrage (Wanderberichte)",
+    "reliability": "mittel",
+    "desc": "Alex & Franzi haben im Hotel Getränke gekauft und Wasser aufgefüllt. Freundlich fragen, ein Anspruch darauf besteht nicht. Einen Laden oder eine Bar gibt es in El Cabrito sonst nicht. Die Bucht ist nur zu Fuß oder per Boot erreichbar.",
+    "sources": [
+      "https://findpenguins.com/alexfranziontrail/trip/la-gomera-thru-hike?sort=ASC"
+    ]
+  }
+]
