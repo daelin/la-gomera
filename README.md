@@ -99,9 +99,9 @@ Im Ordner [`gpx/`](gpx/) liegt **für jeden Tag eine GPX-Datei**, dazu `GomeraTr
 - den **Track** in voller OSM-Auflösung mit Höhen,
 - alle **POIs am Weg als Wegpunkte**, sortiert in Laufrichtung: Nachtlager (`Camp T5: …`), Ausweich-Camps, Wasser (inkl. defekter Hähne), Läden, Cafés und Restaurants. Die Beschreibungen enthalten Öffnungszeiten, Verlässlichkeit, km und Schutzgebietsstatus.
 
-**In der App:** Unter 🥾 8 Tage gibt es bei jedem Tag „📥 GPX“ (Download) und „📤 An App senden“. Letzteres öffnet das Android-Teilen-Menü, dort Komoot, OsmAnd usw. wählen. Die GPX-Dateien sind auch offline verfügbar.
+**In der App:** Unter 🥾 8 Tage gibt es bei jedem Tag einen „📥 GPX“-Download (auch offline verfügbar). Die heruntergeladene Datei öffnest du dann mit Komoot, OsmAnd usw.
 
-- **Komoot:** Komoot übernimmt den Track (Planen → GPX importieren, oder per Teilen-Menü), aber **keine Wegpunkte**. Die POIs stehen in dieser App.
+- **Komoot:** Komoot übernimmt den Track (Datei mit Komoot öffnen oder Planen → GPX importieren), aber **keine Wegpunkte**. Die POIs stehen in dieser App.
 - **OsmAnd, Organic Maps, Locus, Gaia GPS, Garmin:** Diese Apps übernehmen Track **und** Wegpunkte.
 
 ## Projektstruktur

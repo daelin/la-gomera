@@ -819,7 +819,7 @@ function renderPlan() {
   const html = [`<h2>🥾 ${esc(P.title || '8-Tage-Plan')}</h2>
     <div class="facts"><div class="fact"><small>Gesamt</small><b>${kmStr(tot.km)} km</b></div><div class="fact"><small>Aufstieg</small><b>↑ ${tot.up} m</b></div><div class="fact"><small>Abstieg</small><b>↓ ${tot.down} m</b></div><div class="fact"><small>Start</small><b>${fmtDate(startDate())}</b></div></div>
     <p class="muted">Tag 1–2: GR 131 von der Playa de Vallehermoso nach San Sebastián (km ab Playa de Vallehermoso). Tag 3–8: GR 132 gegen den Uhrzeigersinn (km ab San Sebastián). Nachtlager sind Plätze aus Wanderberichten, Vorschläge ohne Berichte sind markiert. Öffnungszeiten werden für das jeweilige Datum ausgewertet. Das Startdatum kannst du unter „Offline“ ändern.</p>
-    ${tourGpx ? `<div class="actions"><a class="btn" href="${esc(tourGpx.file)}" download>📥 GPX Gesamttour</a><button class="btn" data-gpx="${esc(tourGpx.file)}">📤 Gesamttour an App senden</button></div>` : ''}
+    ${tourGpx ? `<div class="actions"><a class="btn" href="${esc(tourGpx.file)}" download>📥 GPX Gesamttour</a></div>` : ''}
     <details class="more"><summary>⚖️ Rechtslage Wildcampen & Tipps</summary><div class="warn">${esc(D.legal.summary)}</div><div class="info">${esc(D.legal.practice)}</div><ul>${D.legal.tips.map((t) => `<li>${esc(t)}</li>`).join('')}</ul></details>`];
   for (const d of P.days) {
     const date = dayDate(d.day);
@@ -840,13 +840,13 @@ function renderPlan() {
       <p><span class="lbl">⛺ Nachtlager:</span> ${camp ? `<button class="btn" data-poi="${esc(camp.id)}">${esc(camp.name)}</button>${camp.unverified ? ' <span class="badge b-off">ohne Berichte – Vorschlag</span>' : ''}` : `<b>${esc(d.night || 'Ziel')}</b>`}</p>
       ${alts.length ? `<p class="muted">Alternativen: ${alts.map((a) => `<button class="btn" style="min-height:34px;padding:4px 8px;margin:2px" data-poi="${esc(a.id)}">${esc(a.name)}</button>`).join(' ')}</p>` : ''}
       <details class="more"><summary>Versorgung unterwegs (${sup.length}) – Zeiten am ${fmtDate(date)}</summary><ul class="mini-list">${sup.join('') || '<li>Nichts direkt am Weg.</li>'}</ul></details>
-      <div class="actions"><button class="btn primary" data-day="${d.day}">🗺️ Etappe auf Karte</button>${gpx ? `<a class="btn" href="${esc(gpx.file)}" download>📥 GPX</a><button class="btn" data-gpx="${esc(gpx.file)}">📤 An App senden</button>` : ''}</div>
+      <div class="actions"><button class="btn primary" data-day="${d.day}">🗺️ Etappe auf Karte</button>${gpx ? `<a class="btn" href="${esc(gpx.file)}" download>📥 GPX</a>` : ''}</div>
     </div>`);
   }
   html.push(`<p class="muted">* Reine Gehzeit nach DIN 33466 (4 km/h, 300 Hm/h hoch, 500 Hm/h runter), ohne Pausen. Mit schwerem Rucksack eher +10–20 %. Tageslicht Ende November nur ~10,5 h!</p>
     <h3>Puffer & Alternativen</h3><p>${esc(P.extra.buffer)}</p><p>${esc(P.extra.gr131)}</p><p>${esc(P.extra.bus)}</p>
     <h3>GPX für Komoot & Co.</h3><p>${esc(P.extra.gpx || '')}</p>
-    <ul class="muted"><li><b>Komoot:</b> „📤 An App senden“ → Komoot wählen, oder am PC/Browser unter Planen → „GPX importieren“. Komoot übernimmt den Track, aber keine Wegpunkte (die POIs findest du hier in der App).</li>
+    <ul class="muted"><li><b>Komoot:</b> „📥 GPX“ herunterladen und die Datei mit Komoot öffnen, oder am PC/Browser unter Planen → „GPX importieren“. Komoot übernimmt den Track, aber keine Wegpunkte (die POIs findest du hier in der App).</li>
     <li><b>OsmAnd, Organic Maps, Locus, Gaia GPS, Garmin:</b> Track UND alle Wegpunkte (Camps, Wasser, Läden mit Öffnungszeiten) werden übernommen.</li></ul>`);
   const el = $('#panel-plan');
   el.innerHTML = html.join('');
@@ -854,25 +854,12 @@ function renderPlan() {
   if (t) t.scrollIntoView({ block: 'start' });
 }
 $('#panel-plan').addEventListener('click', (e) => {
-  const b = e.target.closest('[data-poi],[data-day],[data-gpx]');
+  const b = e.target.closest('[data-poi],[data-day]');
   if (!b) return;
-  if (b.dataset.gpx) { shareGpx(b.dataset.gpx); return; }
   if (b.dataset.day) { showDayOnMap(+b.dataset.day); return; }
   const p = D.pois.find((x) => x.id === b.dataset.poi);
   if (p) { showView('map'); flyTo(p); openPoi(p); }
 });
-// hand the GPX to another app (Komoot, OsmAnd, …) via the Android share sheet, fall back to download
-async function shareGpx(url) {
-  const name = url.split('/').pop();
-  try {
-    const blob = await (await fetch(url)).blob();
-    const file = new File([blob], name, { type: 'application/gpx+xml' });
-    if (navigator.canShare?.({ files: [file] })) { await navigator.share({ files: [file], title: name }); return; }
-  } catch (e) { if (e.name === 'AbortError') return; }
-  const a = document.createElement('a');
-  a.href = url; a.download = name; document.body.appendChild(a); a.click(); a.remove();
-  toast('GPX heruntergeladen – in Komoot: Planen → Importieren bzw. Datei mit der App öffnen', 5000);
-}
 function showDayOnMap(n) {
   const d = D.plan.days.find((x) => x.day === n);
   const seg = prof[d.route].filter((s) => s[0] >= d.from_km * 1000 && s[0] <= d.to_km * 1000).map((s) => [s[3], s[2]]);

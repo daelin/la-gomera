@@ -1,5 +1,5 @@
 // Service worker: precaches the app shell + data, caches map tiles (cache-first) for offline use.
-const VERSION = 'v1.1.0';
+const VERSION = 'v1.1.1';
 const APP_CACHE = `app-${VERSION}`;
 const TILE_CACHE = 'tiles-v1';
 const APP_FILES = [
